@@ -1,0 +1,74 @@
+---
+title: "Media Kit"
+slug: "media-kit"
+excerpt: "Media you are free to use when sharing our technology and vision"
+---
+
+* toc
+{:toc}
+
+
+{%
+include callout.html
+type="info"
+title="Attribution is required"
+content="Our media kit content is licensed [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/). This means you must make **proper attribution** to \"FarmBot\", \"FarmBot Inc\", any of our social media usernames, and/or our website, \"https://farm.bot\", when using any of the content. Furthermore, **commercial usage is forbidden**.
+
+See our [licensing page](../FarmBot-Inc/intro/licensing.md#non-functional-works) for additional details about our non-functional works."
+%}
+
+# Photos
+[Click here for an album of high quality photos](https://photos.app.goo.gl/fD3Td131P6MYYu4c8).
+
+# Videos
+Please see our [YouTube channel](http://youtube.farm.bot). If you would like raw footage, please email rory@farm.bot with your request.
+
+# Logos
+Right-click to save to your computer. Please do not manipulate the logos.
+
+![Dark_Gray_FarmBot_Logo.png](Dark_Gray_FarmBot_Logo.png)
+
+_Dark gray FarmBot logo, for use on light backgrounds_
+
+
+
+![Off_White_FarmBot_Logo.png](Off_White_FarmBot_Logo.png)
+
+_Off-white FarmBot logo, for use on dark backgrounds_
+
+
+
+![FarmBot_Logo_Square_White_on_Brown.png](FarmBot_Logo_Square_White_on_Brown.png)
+
+_FarmBot profile image, for use in profile images. May be cropped into a circle._
+
+
+
+<style>
+.hub-container {
+  max-width: 1350px;
+}
+.value-icon {
+  display: inline-block;
+  height: 18px;
+  margin-bottom: -2px;
+}
+  
+a[title="Guides"] {
+  color: #f4f4f4!important;
+  border-bottom: 5px solid #f4f4f4;
+  padding-bottom: 20px!important;
+}
+  
+a[title="Guides"]:hover {
+  color: white!important;
+  border-bottom-color: white;
+}
+  
+#hub-header li a:hover {
+  box-shadow: none!important;
+}
+</style>
+
+<meta name="theme-color" content="#434343">
+

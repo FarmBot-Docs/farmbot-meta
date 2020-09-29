@@ -1,0 +1,122 @@
+---
+title: "Email Newsletters"
+slug: "email-newsletters"
+---
+
+* toc
+{:toc}
+
+We use mailchimp to send the following types of email newsletters:
+  * News and promotions to our **FarmBot newsletter** email list which contains all addresses that have opted-in to email marketing from us.
+  * Automated multi-part welcome series sent to those who subscribe to our FarmBot newsletter list.
+  * Customer-specific news to our **all customers** list. (this list is *rarely* used)
+  * Developer-specific news to our **FarmBot developers** list.
+
+# Where people subscribe
+Interested people can subscribe to our newsletter from the following places:
+  * Every page on our website includes a bottom banner than can be clicked to open a subscribe popup.
+  * We have a [newsletter signup page](http://newsletter.farm.bot) on the website.
+  * In the Intercom messenger.
+  * By opting-in to email marketing when placing an order.
+
+{%
+include callout.html
+type="success"
+title="DNS shortcut"
+content="When directing people to our [newsletter signup page](http://newsletter.farm.bot), use the DNS shortcut [newsletter.farm.bot](http://newsletter.farm.bot)"
+%}
+
+# Newsletter style guide
+Emails sent to the FarmBot newsletter list should provide real value to the subscriber by either disseminating new information (product release, software update, etc) or by offering a promotion. Emails sent to this list should be of general interest, written for lay-people, and not get too specific with details. They should be to-the-point, easily consumed, and have clear calls to action to *read more* or *buy a product*, etc.
+
+## Subject line
+An email newsletter should have one topic of focus, which should be communicated in the subject line. Subject lines should be informative and straight-forward. Often, it will make sense to have the subject line be very similar to the first heading in the email's body.
+
+{%
+include callout.html
+type="success"
+title="Be honest"
+content="The subject line should entice the subscriber to open the email, but not sound like clickbait or be misleading. <span><img class=\"value-icon\" src=\"good-people.png\"></img></span>"
+%}
+
+## Header
+Every newsletter should include our standard header with our logo. The logo should link to our homepage.
+
+![Header.JPG](Header.JPG)
+
+## Body
+An email newsletter should have one topic. Frequently, the single topic can be communicated concisely with the following pattern: one header, one to three short blocks of text, one call-to-action button, and a media element.
+
+![Section.JPG](Section.JPG)
+
+Sometimes the topic requires a little more content. The example below shows an initial header and blocks of text, followed by alternating media elements and brief text blocks that explain the media. All content maintains focus on the single topic.
+
+![Multiple sections.JPG](Multiple_sections.JPG)
+
+
+
+{%
+include callout.html
+type="warning"
+title="Maintain focus"
+content="Rather than sending fewer newsletters with a ton of unrelated content in each, we prefer to send newsletters more frequently that have less content but maintain greater focus. An example of what **not** to do: mix software update content with hardware update content with a new video series announcement, all in one newsletter."
+%}
+
+## The pitch
+The exception to the single-topic rule above is that almost all newsletters should include a short pitch and call-to-action to buy a FarmBot. The pitch should be after the main body and separated with a subtle dividing line.
+
+![Pitch.JPG](Pitch.JPG)
+
+
+
+{%
+include callout.html
+type="warning"
+title="Don't repeat yourself"
+content="The pitch should not be included when the topic of the email itself is already to buy a FarmBot. For example, when offering a promotion."
+%}
+
+## Footer
+Every newsletter should include our standard email footer.
+
+![Footer.JPG](Footer.JPG)
+
+
+
+{%
+include callout.html
+type="success"
+title="Make opting-out as easy as possible"
+content="The footer **must** include an unsubscribe link that it is clearly visible and easily identified at a glance by a subscriber who wants to opt-out. The unsubscribe link should **not** be low-contrast or hidden in a paragraph of footer text. <span><img class=\"value-icon\" src=\"good-people.png\"></img></span>"
+%}
+
+
+
+<style>
+.hub-container {
+  max-width: 1350px;
+}
+.value-icon {
+  display: inline-block;
+  height: 18px;
+  margin-bottom: -2px;
+}
+  
+a[title="Guides"] {
+  color: #f4f4f4!important;
+  border-bottom: 5px solid #f4f4f4;
+  padding-bottom: 20px!important;
+}
+  
+a[title="Guides"]:hover {
+  color: white!important;
+  border-bottom-color: white;
+}
+  
+#hub-header li a:hover {
+  box-shadow: none!important;
+}
+</style>
+
+<meta name="theme-color" content="#434343">
+
