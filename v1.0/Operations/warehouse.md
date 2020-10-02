@@ -61,3 +61,9 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#434343">
 
+
+# What's next?
+
+ * [Inventory](warehouse/inventory.md)
+ * [Order Fulfillment](warehouse/order-fulfillment.md)
+ * [Warehouse Supplies and Equipment](warehouse/warehouse-supplies-and-equipment.md)

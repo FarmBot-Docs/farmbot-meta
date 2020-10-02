@@ -6,7 +6,7 @@ slug: "licensing"
 * toc
 {:toc}
 
-FarmBot Inc is legally bound to [openly share its products <span><img class="value-icon" src="products.png"></span>](https://meta.farm.bot/docs#openly-share-our-products) at the time of public release, including but not limited to its hardware, software, and documentation.
+FarmBot Inc is legally bound to [openly share its products <span><img class="value-icon" src="products.png"></span>](../../FarmBot-Inc/intro.md#openly-share-our-products) at the time of public release, including but not limited to its hardware, software, and documentation.
 
 In doing so, we've chosen the following licenses for our works based on compliance with leading open source advocacy groups, such as the Open Source Initiative. Additionally, these licenses have been chosen to [respect your freedom](../intro/respecting-your-freedom.md) when it comes to all of our *functional* works and [maintain integrity](../intro/respecting-your-freedom.md#maintaining-integrity) when it comes to our *non-functional* works.
 

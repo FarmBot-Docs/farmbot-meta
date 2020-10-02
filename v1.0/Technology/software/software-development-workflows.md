@@ -6,7 +6,7 @@ slug: "software-development-workflows"
 * toc
 {:toc}
 
-This document outlines FarmBot's day-to-day software development practices as used by the software development team. It outlines the non-technical aspects of software development at FarmBot, Inc. For a technical overview of our software development, please see the [developer portal](https://developer.farm.bot/docs).
+This document outlines FarmBot's day-to-day software development practices as used by the software development team. It outlines the non-technical aspects of software development at FarmBot, Inc. For a technical overview of our software development, please see the [developer portal](https://developer.farm.bot).
 
 # Tools
 We use a variety of tools to create, test, manage, and deploy software. These tools help our team stay on the same page, write quality code, and help prevent regressions and the introduction of bugs in production environments.

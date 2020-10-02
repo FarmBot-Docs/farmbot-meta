@@ -54,14 +54,14 @@ August, 2018 — Launched a [new website and online shop](https://farm.bot/blogs
 
 September, 2018 — [Launched](https://farm.bot/blogs/news/introducing-the-farmbot-developer-documentation-hub) our [developer documentation hub](http://developer.farm.bot) <span><img class="value-icon" src="products.png"></span>, empowering 3rd party to developers to develop plugins, integrations, and improvements with us.
 
-December, 2018 — Began [openly sharing our business](https://meta.farm.bot/docs/intro#openly-share-our-business) with the [launch](https://farm.bot/blogs/news/openly-sharing-our-business) of our [business documentation hub](http://meta.farm.bot) <span><img class="value-icon" src="business.png"></span>.
+December, 2018 — Began [openly sharing our business](../../FarmBot-Inc/intro.md#openly-share-our-business) with the [launch](https://farm.bot/blogs/news/openly-sharing-our-business) of our [business documentation hub](http://meta.farm.bot) <span><img class="value-icon" src="business.png"></span>.
 
 # 2019
 January, 2019 — Rory [spoke at Linux Conf Australia](https://farm.bot/blogs/news/raising-the-bar-of-great-documentation), evangelizing the need for great open-source documentation across hardware, software, community, and business <span><img class="value-icon" src="products.png"></span>  <span><img class="value-icon" src="business.png"></span>  <span><img class="value-icon" src="community.png"></span>.
 
 January, 2019 — Surpassed 1,000 FarmBots sold.
 
-February, 2019 — Augmented company messaging to convey our [respect for user freedom](https://meta.farm.bot/docs/respecting-your-freedom) <span><img class="value-icon" src="products.png"> <span><img class="value-icon" src="good-people.png"></span>.
+February, 2019 — Augmented company messaging to convey our [respect for user freedom](../intro/respecting-your-freedom.md) <span><img class="value-icon" src="products.png"> <span><img class="value-icon" src="good-people.png"></span>.
 
 February, 2019 — Began offering [financing payment options](https://farm.bot/blogs/news/buy-farmbot-now-pay-over-time) with Affirm.
 

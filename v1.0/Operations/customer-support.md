@@ -35,3 +35,9 @@ a[title="Guides"]:hover {
 
 <meta name="theme-color" content="#434343">
 
+
+# What's next?
+
+ * [Providing Support](customer-support/providing-support.md)
+ * [Replacement Parts and Returns](customer-support/replacement-parts-and-returns.md)
+ * [Creating Draft Orders](customer-support/creating-draft-orders.md)

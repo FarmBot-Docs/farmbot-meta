@@ -10,7 +10,7 @@ The following process are required when onboarding a new team member.
 
 # Execute contract
 A new hire will become part of the team once a contract is signed between the appropriate FarmBot Inc officer or manager and the new hire. The contract should include at least the following:
-  * Company description, including the full text of our [public benefit purposes](../../FarmBot-Inc/intro.md#corporate-values).
+  * Company description, including the full text of our [public benefit purposes](../../FarmBot-Inc/intro.md#public-benefit-purposes).
   * The new hire's role(s) and responsibilities.
   * Compensation based on our [pay formula](../human-resources/compensation.md#pay-formula).
   * Start date.
