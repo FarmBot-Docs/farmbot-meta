@@ -1,7 +1,7 @@
 ---
 title: "Media Kit"
 slug: "media-kit"
-excerpt: "Media you are free to use when sharing our technology and vision"
+description: "Media you are free to use when sharing our technology and vision"
 ---
 
 * toc
@@ -26,19 +26,19 @@ Please see our [YouTube channel](http://youtube.farm.bot). If you would like raw
 # Logos
 Right-click to save to your computer. Please do not manipulate the logos.
 
-![Dark_Gray_FarmBot_Logo.png](Dark_Gray_FarmBot_Logo.png)
+![Dark_Gray_FarmBot_Logo.png](_images/Dark_Gray_FarmBot_Logo.png)
 
 _Dark gray FarmBot logo, for use on light backgrounds_
 
 
 
-![Off_White_FarmBot_Logo.png](Off_White_FarmBot_Logo.png)
+![Off_White_FarmBot_Logo.png](_images/Off_White_FarmBot_Logo.png)
 
 _Off-white FarmBot logo, for use on dark backgrounds_
 
 
 
-![FarmBot_Logo_Square_White_on_Brown.png](FarmBot_Logo_Square_White_on_Brown.png)
+![FarmBot_Logo_Square_White_on_Brown.png](_images/FarmBot_Logo_Square_White_on_Brown.png)
 
 _FarmBot profile image, for use in profile images. May be cropped into a circle._
 

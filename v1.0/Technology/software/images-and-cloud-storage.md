@@ -63,19 +63,19 @@ Storing images on a third party server brings on additional challenges such as:
 
 Start on [this page](https://console.cloud.google.com/apis/credentials)
 
-![Screenshot_2019-07-27 Credentials - FarmBot Web App - Google Cloud Platform.png](Screenshot_2019-07-27_Credentials_-_FarmBot_Web_App_-_Google_Cloud_Platform.png)
+![Screenshot_2019-07-27 Credentials - FarmBot Web App - Google Cloud Platform.png](_images/Screenshot_2019-07-27_Credentials_-_FarmBot_Web_App_-_Google_Cloud_Platform.png)
 
 _Select "Create credentials"_
 
 
 
-![Screenshot_2019-07-27 Credentials - FarmBot Web App - Google Cloud Platform(1).png](Screenshot_2019-07-27_Credentials_-_FarmBot_Web_App_-_Google_Cloud_Platform1.png)
+![Screenshot_2019-07-27 Credentials - FarmBot Web App - Google Cloud Platform(1).png](_images/Screenshot_2019-07-27_Credentials_-_FarmBot_Web_App_-_Google_Cloud_Platform1.png)
 
 _Select "Service account key"_
 
 
 
-![Screenshot_2019-07-27 Create service account key - FarmBot Web App - Google Cloud Platform(1).png](Screenshot_2019-07-27_Create_service_account_key_-_FarmBot_Web_App_-_Google_Cloud_Platform1.png)
+![Screenshot_2019-07-27 Create service account key - FarmBot Web App - Google Cloud Platform(1).png](_images/Screenshot_2019-07-27_Create_service_account_key_-_FarmBot_Web_App_-_Google_Cloud_Platform1.png)
 
 _Create a new service account with a "Storage Admin" role. We want the "JSON" key type._
 
@@ -83,13 +83,13 @@ After clicking "Create", you will be prompted to download a JSON file. **Keep th
 
 # Step II: Create a GCS Bucket
 
-![Screenshot_2019-07-27 Browser - FarmBot Web App - Google Cloud Platform.png](Screenshot_2019-07-27_Browser_-_FarmBot_Web_App_-_Google_Cloud_Platform.png)
+![Screenshot_2019-07-27 Browser - FarmBot Web App - Google Cloud Platform.png](_images/Screenshot_2019-07-27_Browser_-_FarmBot_Web_App_-_Google_Cloud_Platform.png)
 
 _Click "CREATE BUCKET"_
 
 
 
-![Screenshot_2019-07-27 Storage – FarmBot Web App – Google Cloud Platform.png](Screenshot_2019-07-27_Storage__FarmBot_Web_App__Google_Cloud_Platform.png)
+![Screenshot_2019-07-27 Storage – FarmBot Web App – Google Cloud Platform.png](_images/Screenshot_2019-07-27_Storage__FarmBot_Web_App__Google_Cloud_Platform.png)
 
 _Pick a (public) name. Select "Multi regional". Select "Object-level" permissions._
 
@@ -97,13 +97,13 @@ Once that is done, continue to next screen. You must now set the `GCS_BUCKET` to
 
 The next step is to make the bucket publicly readable, otherwise, users will got 401 errors when attempting to download images.
 
-![Screenshot_2019-07-27 Bucket details - FarmBot Web App - Google Cloud Platform.png](Screenshot_2019-07-27_Bucket_details_-_FarmBot_Web_App_-_Google_Cloud_Platform.png)
+![Screenshot_2019-07-27 Bucket details - FarmBot Web App - Google Cloud Platform.png](_images/Screenshot_2019-07-27_Bucket_details_-_FarmBot_Web_App_-_Google_Cloud_Platform.png)
 
 _Navigate to the "Permissions" tab of the "bucket details" page._
 
 Click **"Add Member**.
 
-![Screenshot_2019-07-27 Bucket details - FarmBot Web App - Google Cloud Platform(1).png](Screenshot_2019-07-27_Bucket_details_-_FarmBot_Web_App_-_Google_Cloud_Platform1.png)
+![Screenshot_2019-07-27 Bucket details - FarmBot Web App - Google Cloud Platform(1).png](_images/Screenshot_2019-07-27_Bucket_details_-_FarmBot_Web_App_-_Google_Cloud_Platform1.png)
 
 _Add "Storage Object Viewer" permission to user "allUsers"._
 

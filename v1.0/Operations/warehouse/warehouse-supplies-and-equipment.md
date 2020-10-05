@@ -1,7 +1,7 @@
 ---
 title: "Warehouse Supplies and Equipment"
 slug: "warehouse-supplies-and-equipment"
-excerpt: "Last updated February 24, 2020."
+description: "Last updated February 24, 2020."
 ---
 
 * toc

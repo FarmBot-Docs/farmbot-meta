@@ -36,22 +36,22 @@ An email newsletter should have one topic of focus, which should be communicated
 include callout.html
 type="success"
 title="Be honest"
-content="The subject line should entice the subscriber to open the email, but not sound like clickbait or be misleading. <span><img class=\"value-icon\" src=\"good-people.png\"></img></span>"
+content="The subject line should entice the subscriber to open the email, but not sound like clickbait or be misleading. <span><img class=\"value-icon\" src=\"_images/good-people.png\"></img></span>"
 %}
 
 ## Header
 Every newsletter should include our standard header with our logo. The logo should link to our homepage.
 
-![Header.JPG](Header.JPG)
+![Header.JPG](_images/Header.JPG)
 
 ## Body
 An email newsletter should have one topic. Frequently, the single topic can be communicated concisely with the following pattern: one header, one to three short blocks of text, one call-to-action button, and a media element.
 
-![Section.JPG](Section.JPG)
+![Section.JPG](_images/Section.JPG)
 
 Sometimes the topic requires a little more content. The example below shows an initial header and blocks of text, followed by alternating media elements and brief text blocks that explain the media. All content maintains focus on the single topic.
 
-![Multiple sections.JPG](Multiple_sections.JPG)
+![Multiple sections.JPG](_images/Multiple_sections.JPG)
 
 
 
@@ -65,7 +65,7 @@ content="Rather than sending fewer newsletters with a ton of unrelated content i
 ## The pitch
 The exception to the single-topic rule above is that almost all newsletters should include a short pitch and call-to-action to buy a FarmBot. The pitch should be after the main body and separated with a subtle dividing line.
 
-![Pitch.JPG](Pitch.JPG)
+![Pitch.JPG](_images/Pitch.JPG)
 
 
 
@@ -79,7 +79,7 @@ content="The pitch should not be included when the topic of the email itself is 
 ## Footer
 Every newsletter should include our standard email footer.
 
-![Footer.JPG](Footer.JPG)
+![Footer.JPG](_images/Footer.JPG)
 
 
 
@@ -87,7 +87,7 @@ Every newsletter should include our standard email footer.
 include callout.html
 type="success"
 title="Make opting-out as easy as possible"
-content="The footer **must** include an unsubscribe link that it is clearly visible and easily identified at a glance by a subscriber who wants to opt-out. The unsubscribe link should **not** be low-contrast or hidden in a paragraph of footer text. <span><img class=\"value-icon\" src=\"good-people.png\"></img></span>"
+content="The footer **must** include an unsubscribe link that it is clearly visible and easily identified at a glance by a subscriber who wants to opt-out. The unsubscribe link should **not** be low-contrast or hidden in a paragraph of footer text. <span><img class=\"value-icon\" src=\"_images/good-people.png\"></img></span>"
 %}
 
 

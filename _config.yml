@@ -1,3 +1,6 @@
+title: FarmBot Business Documentation
+url: meta.farm.bot
+logo: /assets/images/documentation.png
 theme: jekyll-theme-cayman
 baseurl: /farmbot-meta
 color: '#434343'
@@ -5,3 +8,11 @@ latest_version_number: 1.0
 version_factor: 10.0
 plugins:
   - jemoji
+include:
+  - _images
+  - _redirects
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock

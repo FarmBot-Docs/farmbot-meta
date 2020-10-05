@@ -1,24 +1,24 @@
 ---
 title: "Replacement Parts and Returns"
 slug: "replacement-parts-and-returns"
-excerpt: "Read our official [warranty](https://farm.bot/pages/warranty) and [return policy](https://farm.bot/pages/returns)"
+description: "Read our official [warranty](https://farm.bot/pages/warranty) and [return policy](https://farm.bot/pages/returns)"
 ---
 
 * toc
 {:toc}
 
-As a business that [strives to do the right thing in every situation <span><img class="value-icon" src="good-people.png"></img></span>](../../FarmBot-Inc/intro.md#be-good-people), we frequently exercise personal judgement when determining the course of action to take for replacement part and return requests. While we'll never provide lesser service than that guaranteed in our official [warranty](https://farm.bot/pages/warranty) and [return policy](https://farm.bot/pages/returns), we will often go above and beyond our legal obligations to increase customer satisfaction and make things right.
+As a business that [strives to do the right thing in every situation <span><img class="value-icon" src="_images/good-people.png"></img></span>](../../FarmBot-Inc/intro.md#be-good-people), we frequently exercise personal judgement when determining the course of action to take for replacement part and return requests. While we'll never provide lesser service than that guaranteed in our official [warranty](https://farm.bot/pages/warranty) and [return policy](https://farm.bot/pages/returns), we will often go above and beyond our legal obligations to increase customer satisfaction and make things right.
 
 The tables below show example courses of action we have taken for various replacement part and return requests. These examples are meant to illustrate the circumstances in which we:
   * Fulfill our legal obligations according to our official [warranty](https://farm.bot/pages/warranty) and [return policy](https://farm.bot/pages/returns).
-  * Do not have legal obligations, but feel the responsibility to go above and beyond to [do the right thing <span><img class="value-icon" src="good-people.png"></img></span>](../../FarmBot-Inc/intro.md#be-good-people).
+  * Do not have legal obligations, but feel the responsibility to go above and beyond to [do the right thing <span><img class="value-icon" src="_images/good-people.png"></img></span>](../../FarmBot-Inc/intro.md#be-good-people).
   * Do not have legal obligations, and feel that the customer is responsible for the cost of support.
 
 {%
 include callout.html
 type="info"
 title=""
-content="These examples are **not** meant to indicate future levels of support or serve as any kind of guarantee or extension to our official [warranty](https://farm.bot/pages/warranty) or [return policy](https://farm.bot/pages/returns). Rather, they are meant to [provide transparency into our internal business processes <span><img class=\"value-icon\" src=\"business.png\"></img></span>](../../FarmBot-Inc/intro.md#openly-share-our-business) and shed light on one of the ways in which we [strive to do the right thing <span><img class=\"value-icon\" src=\"good-people.png\"></img></span>](../../FarmBot-Inc/intro.md#be-good-people)."
+content="These examples are **not** meant to indicate future levels of support or serve as any kind of guarantee or extension to our official [warranty](https://farm.bot/pages/warranty) or [return policy](https://farm.bot/pages/returns). Rather, they are meant to [provide transparency into our internal business processes <span><img class=\"value-icon\" src=\"_images/business.png\"></img></span>](../../FarmBot-Inc/intro.md#openly-share-our-business) and shed light on one of the ways in which we [strive to do the right thing <span><img class=\"value-icon\" src=\"_images/good-people.png\"></img></span>](../../FarmBot-Inc/intro.md#be-good-people)."
 %}
 
 # Replacement part request service examples

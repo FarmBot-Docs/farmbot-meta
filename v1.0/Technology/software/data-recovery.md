@@ -30,7 +30,7 @@ Production environments differ from staging because they use a [standard tier da
 
 Please see the photo below and the [Heroku documentation](https://devcenter.heroku.com/articles/heroku-postgres-rollback) for more information.
 
-![database.png](database.png)
+![database.png](_images/database.png)
 
 
 

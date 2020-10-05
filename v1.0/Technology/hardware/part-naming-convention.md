@@ -1,7 +1,7 @@
 ---
 title: "Part Naming Convention"
 slug: "part-naming-convention"
-excerpt: "Scheme for accurately identifying FarmBot parts"
+description: "Scheme for accurately identifying FarmBot parts"
 ---
 
 * toc

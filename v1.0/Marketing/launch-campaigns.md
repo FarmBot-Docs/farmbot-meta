@@ -33,27 +33,27 @@ slug: "launch-campaigns"
 # Day by day performance
 ## Genesis v1.2
 
-![Screen Shot 2019-08-01 at 12.51.34 PM.png](Screen_Shot_2019-08-01_at_12.51.34_PM.png)
+![Screen Shot 2019-08-01 at 12.51.34 PM.png](_images/Screen_Shot_2019-08-01_at_12.51.34_PM.png)
 
 
 
-![Screen Shot 2019-08-01 at 12.47.16 PM.png](Screen_Shot_2019-08-01_at_12.47.16_PM.png)
+![Screen Shot 2019-08-01 at 12.47.16 PM.png](_images/Screen_Shot_2019-08-01_at_12.47.16_PM.png)
 
 ## Genesis XL v1.4
 
-![Screen Shot 2019-08-01 at 12.51.00 PM.png](Screen_Shot_2019-08-01_at_12.51.00_PM.png)
+![Screen Shot 2019-08-01 at 12.51.00 PM.png](_images/Screen_Shot_2019-08-01_at_12.51.00_PM.png)
 
 
 
-![Screen Shot 2019-08-01 at 12.47.00 PM.png](Screen_Shot_2019-08-01_at_12.47.00_PM.png)
+![Screen Shot 2019-08-01 at 12.47.00 PM.png](_images/Screen_Shot_2019-08-01_at_12.47.00_PM.png)
 
 ## Express and Express XL v1.0
 
-![Screen Shot 2019-08-01 at 12.50.31 PM.png](Screen_Shot_2019-08-01_at_12.50.31_PM.png)
+![Screen Shot 2019-08-01 at 12.50.31 PM.png](_images/Screen_Shot_2019-08-01_at_12.50.31_PM.png)
 
 
 
-![Screen Shot 2019-08-01 at 12.46.31 PM.png](Screen_Shot_2019-08-01_at_12.46.31_PM.png)
+![Screen Shot 2019-08-01 at 12.46.31 PM.png](_images/Screen_Shot_2019-08-01_at_12.46.31_PM.png)
 
 
 

@@ -8,7 +8,7 @@ slug: "global-alert-bulletin-creation"
 
 The FarmBot API supports the creation of `Alert` records. When created, the alert will propagate to the **Message Center** of all users who have logged in within the last 7 months. This is especially useful when creating system-wide announcements, such as end-of-life dates and changelog updates.
 
-![Screen Shot 2019-05-07 at 3.30.45 PM.png](Screen_Shot_2019-05-07_at_3.30.45_PM.png)
+![Screen Shot 2019-05-07 at 3.30.45 PM.png](_images/Screen_Shot_2019-05-07_at_3.30.45_PM.png)
 
 _An example alert_
 
@@ -46,13 +46,13 @@ When you are done entering content, just type three `@` symbols on a new line:
 
 The above information will yield the following alert in the message center, with the button linking to [http://farm.bot](http://farm.bot).
 
-![Screen Shot 2019-05-07 at 3.25.20 PM.png](Screen_Shot_2019-05-07_at_3.25.20_PM.png)
+![Screen Shot 2019-05-07 at 3.25.20 PM.png](_images/Screen_Shot_2019-05-07_at_3.25.20_PM.png)
 
 # Alert types
 The following alert `type`s are available, which will determine what icon is shown in the top-left of the message.
-  * `info` - <i class="fa fa-info-circle"></i>
-  * `success` - <i class="fa fa-check-square"></i>
-  * `warn` - <i class="fa fa-exclamation-triangle"></i>
+  * `info` - <i class='fa fa-info-circle'></i>
+  * `success` - <i class='fa fa-check-square'></i>
+  * `warn` - <i class='fa fa-exclamation-triangle'></i>
 
 # Important information
 

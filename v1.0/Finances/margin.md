@@ -1,7 +1,7 @@
 ---
 title: "Margin"
 slug: "margin"
-excerpt: "Last updated August 7, 2019"
+description: "Last updated August 7, 2019"
 ---
 
 * toc

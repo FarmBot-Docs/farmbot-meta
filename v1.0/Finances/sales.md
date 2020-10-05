@@ -1,7 +1,7 @@
 ---
 title: "Sales"
 slug: "sales"
-excerpt: "Last updated December 11, 2019"
+description: "Last updated December 11, 2019"
 ---
 
 * toc
