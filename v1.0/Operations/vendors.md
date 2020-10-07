@@ -33,10 +33,10 @@ slug: "vendors"
 |Service                       |Vendors                       |Notes                         |
 |------------------------------|------------------------------|------------------------------|
 |Office and warehouse space    |Anderson Commercial Real Estate|
-|Internet and phone            |[Charter Spectrum Business](spectrumbusiness.net)|
-|Trash and recycling           |[Waste Connections Inc](wcicustomer.com)|Trash pickup is on Tuesdays<br>Recycling pickup is on Thursdays
-|Water                         |[SLO Public Utilities](slocity.merchanttransact.com)|
-|Electricity                   |[PG&E](pge.com/waystopay)     |
+|Internet and phone            |[Charter Spectrum Business](https://spectrumbusiness.net)|
+|Trash and recycling           |[Waste Connections Inc](https://wcicustomer.com)|Trash pickup is on Tuesdays<br>Recycling pickup is on Thursdays
+|Water                         |[SLO Public Utilities](https://slocity.merchanttransact.com)|
+|Electricity                   |[PG&E](https://pge.com/waystopay)     |
 
 ## Chicago satellite
 
