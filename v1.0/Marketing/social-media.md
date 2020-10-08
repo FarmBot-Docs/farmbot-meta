@@ -36,7 +36,7 @@ The main hashtag we use to promote our brand and community is **#FarmBot**, and 
 ## Stay focused :dart:
 Posts should focus on **one subject matter** so that they are concise and easy to digest. Rather than talking about, for example, a hardware tool *and* the forum *and* making a plug for the newsletter, split the post up into two or three posts and keep each one laser focused on one bite-sized piece of information.
 
-## Speak like a human :information-desk-person:
+## Speak like a human :information_desk_person:
 Even though we make and sell farming robots, we are **humans** behind the technology, company, and brand. Authenticity is the name of the game when it comes to social media and connecting with our fans and customers, so be casual, be cool, and write more-or-less how you might speak. Tips: avoid run-on sentences, short statements, and anything resembling [RTFM](https://en.wikipedia.org/wiki/RTFM).
 
 ## Be original :art:
@@ -50,7 +50,7 @@ We should strive to include an original **photo** or other piece of **media** (s
 ## Include a link :link:
 Most posts should include a **link** to our website to either buy a FarmBot, learn more, or take some action (eg: go to our blog or a page on our site, read/comment on a forum thread, subscribe to our newsletter, etc). In general, we should not include more than one link in a post because that requires just a little too much attention for most people's social media browsing habits, and most social platforms are optimized for highlighting only one link per post.
 
-### Use our short URLs :white-check-mark:
+### Use our short URLs :white_check_mark:
 We have the following **short URLs** which should be used as much as possible. This is especially important for Instagram, where post links are not clickable and so the follower needs to manually type in the URL to their browser if they wish to follow the link.
 
 |URL                           |Points to                     |Use when directing people to...|
