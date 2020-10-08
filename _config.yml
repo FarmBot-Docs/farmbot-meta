@@ -8,6 +8,7 @@ latest_version_number: 1.0
 version_factor: 10.0
 plugins:
   - jemoji
+  - jekyll-redirect-from
 include:
   - _images
   - _redirects
@@ -16,3 +17,4 @@ exclude:
   - LICENSE
   - Gemfile
   - Gemfile.lock
+  - vendor

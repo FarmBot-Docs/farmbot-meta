@@ -56,31 +56,4 @@ content="Keep in mind that this document is merely a guide. If something doesn't
     * Portrait photos and images should be displayed using the **Smart Fit** size option.
     * Small photos and images (less than 600 x 400) should be displayed using the **Original** size option.
 
-<style>
-.hub-container {
-  max-width: 1350px;
-}
-.value-icon {
-  display: inline-block;
-  height: 18px;
-  margin-bottom: -2px;
-}
-  
-a[title="Guides"] {
-  color: #f4f4f4!important;
-  border-bottom: 5px solid #f4f4f4;
-  padding-bottom: 20px!important;
-}
-  
-a[title="Guides"]:hover {
-  color: white!important;
-  border-bottom-color: white;
-}
-  
-#hub-header li a:hover {
-  box-shadow: none!important;
-}
-</style>
-
-<meta name="theme-color" content="#434343">
 

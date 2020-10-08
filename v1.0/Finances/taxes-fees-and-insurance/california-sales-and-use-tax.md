@@ -32,31 +32,4 @@ content="Ok, you've just finished the **filing**. Now you need to **make payment
 7. Enter payment amount. The amount due is the sum of all California state sales taxes collected for the quarter, which can be calculated using [this Shopify report](https://farmbot.myshopify.com/admin/finances/taxes). Make sure you select the correct quarter for generating the report. You will also need the business checking account's **account and routing numbers**, which can be found in our non-public corporate documentation under the "Bank Account Info" heading.
 8. After submitting payment, download the receipt as a PDF. Rename it with the format `California Sales and Use Tax Q1 2018 Payment`. Then upload the file to the year's tax folder in Google Drive.
 
-<style>
-.hub-container {
-  max-width: 1350px;
-}
-.value-icon {
-  display: inline-block;
-  height: 18px;
-  margin-bottom: -2px;
-}
-  
-a[title="Guides"] {
-  color: #f4f4f4!important;
-  border-bottom: 5px solid #f4f4f4;
-  padding-bottom: 20px!important;
-}
-  
-a[title="Guides"]:hover {
-  color: white!important;
-  border-bottom-color: white;
-}
-  
-#hub-header li a:hover {
-  box-shadow: none!important;
-}
-</style>
-
-<meta name="theme-color" content="#434343">
 

@@ -108,31 +108,4 @@ May, 2020 — Cancelled the sale, production, and delivery of FarmBot Express MA
 
 May, 2020 — [Began shipping](https://farm.bot/blogs/news/farmbot-express-now-available-from-inventory) FarmBot Express and Express XL v1.0 kits from inventory.
 
-<style>
-.hub-container {
-  max-width: 1350px;
-}
-.value-icon {
-  display: inline-block;
-  height: 18px;
-  margin-bottom: -2px;
-}
-  
-a[title="Guides"] {
-  color: #f4f4f4!important;
-  border-bottom: 5px solid #f4f4f4;
-  padding-bottom: 20px!important;
-}
-  
-a[title="Guides"]:hover {
-  color: white!important;
-  border-bottom-color: white;
-}
-  
-#hub-header li a:hover {
-  box-shadow: none!important;
-}
-</style>
-
-<meta name="theme-color" content="#434343">
 

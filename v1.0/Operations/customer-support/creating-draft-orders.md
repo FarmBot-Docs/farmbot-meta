@@ -34,31 +34,4 @@ The draft order email will contain a big button for the customer to complete the
 
 The email will also contain a link to download a PDF invoice. This PDF, or the email itself, is usually enough for anyone who needs a quote or invoice, though sometimes these documents need to be edited to include specific wording, VAT numbers, etc. To do so, you can download the PDF from the draft order screen in the Shopify backend, and edit it using Adobe Acrobat or another PDF editing tool.
 
-<style>
-.hub-container {
-  max-width: 1350px;
-}
-.value-icon {
-  display: inline-block;
-  height: 18px;
-  margin-bottom: -2px;
-}
-  
-a[title="Guides"] {
-  color: #f4f4f4!important;
-  border-bottom: 5px solid #f4f4f4;
-  padding-bottom: 20px!important;
-}
-  
-a[title="Guides"]:hover {
-  color: white!important;
-  border-bottom-color: white;
-}
-  
-#hub-header li a:hover {
-  box-shadow: none!important;
-}
-</style>
-
-<meta name="theme-color" content="#434343">
 

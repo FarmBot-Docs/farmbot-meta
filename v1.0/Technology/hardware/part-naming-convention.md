@@ -58,31 +58,4 @@ While omitting some information might make sense and follow the convention _now_
 
 We won't remember spoken words with such detail in a month. And we probably won't look back at years-old chat logs either. But we (and customers and partners) will probably look back at documentation, engineering drawings, exported files, CAD models, and more. In some cases, omissions may make determining precisely which part was being referenced difficult. Again, when in doubt, don't omit.
 
-<style>
-.hub-container {
-  max-width: 1350px;
-}
-.value-icon {
-  display: inline-block;
-  height: 18px;
-  margin-bottom: -2px;
-}
-  
-a[title="Guides"] {
-  color: #f4f4f4!important;
-  border-bottom: 5px solid #f4f4f4;
-  padding-bottom: 20px!important;
-}
-  
-a[title="Guides"]:hover {
-  color: white!important;
-  border-bottom-color: white;
-}
-  
-#hub-header li a:hover {
-  box-shadow: none!important;
-}
-</style>
-
-<meta name="theme-color" content="#434343">
 

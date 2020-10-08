@@ -190,31 +190,4 @@ After a second reviewer approves the changes and all CI checks have passed, the 
 
 Unlike `staging`, a deployment to the production environment does not happen automatically, for safety reasons. See the [Deployment of Web Services](deployment-of-web-services.md) document for additional details.
 
-<style>
-.hub-container {
-  max-width: 1350px;
-}
-.value-icon {
-  display: inline-block;
-  height: 18px;
-  margin-bottom: -2px;
-}
-  
-a[title="Guides"] {
-  color: #f4f4f4!important;
-  border-bottom: 5px solid #f4f4f4;
-  padding-bottom: 20px!important;
-}
-  
-a[title="Guides"]:hover {
-  color: white!important;
-  border-bottom-color: white;
-}
-  
-#hub-header li a:hover {
-  box-shadow: none!important;
-}
-</style>
-
-<meta name="theme-color" content="#434343">
 
