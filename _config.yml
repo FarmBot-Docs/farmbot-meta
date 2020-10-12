@@ -2,6 +2,7 @@ title: FarmBot Business Documentation
 url: meta.farm.bot
 logo: /assets/images/documentation.png
 theme: jekyll-theme-cayman
+remote_theme: FarmBot-Docs/farmbot-theme@main
 baseurl: /
 color: '#434343'
 latest_version_number: 1.0
@@ -9,6 +10,7 @@ version_factor: 10.0
 plugins:
   - jemoji
   - jekyll-redirect-from
+  - jekyll-remote-theme
 include:
   - _images
   - _redirects
