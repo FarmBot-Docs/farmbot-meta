@@ -22,7 +22,7 @@ July, 2014 — Rory shares [his vision for the future of food](https://www.youtu
 October, 2015 — FarmBot [plants seeds for the first time](https://farm.bot/blogs/news/farmbot-plants-seeds-for-the-first-time).
 
 # 2016
-April, 2016 — Rory, Rick, and Tim incorporate FarmBot Inc. as a California Benefit Corporation, cementing [the project values into the company bylaws <span><img class="value-icon" src="_images/products.png"></span>  <span><img class="value-icon" src="_images/business.png"></span>  <span><img class="value-icon" src="_images/community.png"></span>  <span><img class="value-icon" src="_images/good-people.png"></span>](../../FarmBot-Inc/intro.md#public-benefit-purposes).
+April, 2016 — Rory, Rick, and Tim incorporate FarmBot Inc. as a California Benefit Corporation, cementing [the project values into the company bylaws <span><img class="value-icon" src="_images/products.png"></span>  <span><img class="value-icon" src="_images/business.png"></span>  <span><img class="value-icon" src="_images/community.png"></span>  <span><img class="value-icon" src="_images/good-people.png"></span>](../intro.md#public-benefit-purposes).
 
 July, 2016 — Launched a [crowdfunding campaign](https://farm.bot/blogs/news/farmbot-now-available-for-pre-order) for FarmBot Genesis – Humanity’s First Open-Source CNC Farming Machine. During July, 275 pre-orders were accepted resulting in over [$800k in revenue](https://farm.bot/blogs/news/thank-you).
 
@@ -54,7 +54,7 @@ August, 2018 — Launched a [new website and online shop](https://farm.bot/blogs
 
 September, 2018 — [Launched](https://farm.bot/blogs/news/introducing-the-farmbot-developer-documentation-hub) our [developer documentation hub](http://developer.farm.bot) <span><img class="value-icon" src="_images/products.png"></span>, empowering 3rd party to developers to develop plugins, integrations, and improvements with us.
 
-December, 2018 — Began [openly sharing our business](../../FarmBot-Inc/intro.md#openly-share-our-business) with the [launch](https://farm.bot/blogs/news/openly-sharing-our-business) of our [business documentation hub](http://meta.farm.bot) <span><img class="value-icon" src="_images/business.png"></span>.
+December, 2018 — Began [openly sharing our business](../intro.md#openly-share-our-business) with the [launch](https://farm.bot/blogs/news/openly-sharing-our-business) of our [business documentation hub](http://meta.farm.bot) <span><img class="value-icon" src="_images/business.png"></span>.
 
 # 2019
 January, 2019 — Rory [spoke at Linux Conf Australia](https://farm.bot/blogs/news/raising-the-bar-of-great-documentation), evangelizing the need for great open-source documentation across hardware, software, community, and business <span><img class="value-icon" src="_images/products.png"></span>  <span><img class="value-icon" src="_images/business.png"></span>  <span><img class="value-icon" src="_images/community.png"></span>.

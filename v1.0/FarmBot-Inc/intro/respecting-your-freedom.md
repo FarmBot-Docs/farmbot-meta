@@ -45,7 +45,7 @@ In our documentation we may warn against or discourage using the product in cert
 %}
 
 # Making changes
-For the freedom to study and change the work to be meaningful, the work must be open-source. Thus, we have committed with two of our public benefit purposes to [openly share our products <span><img class="value-icon" src="_images/products.png"></span>](../../FarmBot-Inc/intro.md#openly-share-our-products) and [openly share our business <span><img class="value-icon" src="_images/business.png"></span>](../../FarmBot-Inc/intro.md#openly-share-our-business) to grant you this freedom.
+For the freedom to study and change the work to be meaningful, the work must be open-source. Thus, we have committed with two of our public benefit purposes to [openly share our products <span><img class="value-icon" src="_images/products.png"></span>](../intro.md#openly-share-our-products) and [openly share our business <span><img class="value-icon" src="_images/business.png"></span>](../intro.md#openly-share-our-business) to grant you this freedom.
 
 Whether a change constitutes an improvement is a subjective matter, though FarmBot Inc holds no limitations over your right to modify the work, for better or for worse.
 
@@ -85,7 +85,7 @@ Using these works for _commercial purposes_ (verbatim or with modifications) wou
 include callout.html
 type="success"
 title="Fair use is fair game"
-content="You _are_ free to use our non-functional works for _non-commercial_ purposes. For example, we absolutely encourage you to retweet us, share our videos with your students, use our promotional photos with attribution in your news article, or use any other non-functional work in a *fair-use* manner. In the end, we simply ask for your respect and for you to [be a good community member <span><img class=\"value-icon\" src=\"_images/good-people.png\"></span>](../../FarmBot-Inc/intro.md#be-good-people)."
+content="You _are_ free to use our non-functional works for _non-commercial_ purposes. For example, we absolutely encourage you to retweet us, share our videos with your students, use our promotional photos with attribution in your news article, or use any other non-functional work in a *fair-use* manner. In the end, we simply ask for your respect and for you to [be a good community member <span><img class=\"value-icon\" src=\"_images/good-people.png\"></span>](../intro.md#be-good-people)."
 %}
 
 # Special thanks
