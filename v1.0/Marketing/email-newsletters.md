@@ -36,7 +36,7 @@ An email newsletter should have one topic of focus, which should be communicated
 include callout.html
 type="success"
 title="Be honest"
-content="The subject line should entice the subscriber to open the email, but not sound like clickbait or be misleading. <span><img class=\"value-icon\" src=\"_images/good-people.png\"></img></span>"
+content="The subject line should entice the subscriber to open the email, but not sound like clickbait or be misleading. <span><img class=\"value-icon\" src=\"_images/good-people.png\"></span>"
 %}
 
 ## Header
@@ -87,7 +87,7 @@ Every newsletter should include our standard email footer.
 include callout.html
 type="success"
 title="Make opting-out as easy as possible"
-content="The footer **must** include an unsubscribe link that it is clearly visible and easily identified at a glance by a subscriber who wants to opt-out. The unsubscribe link should **not** be low-contrast or hidden in a paragraph of footer text. <span><img class=\"value-icon\" src=\"_images/good-people.png\"></img></span>"
+content="The footer **must** include an unsubscribe link that it is clearly visible and easily identified at a glance by a subscriber who wants to opt-out. The unsubscribe link should **not** be low-contrast or hidden in a paragraph of footer text. <span><img class=\"value-icon\" src=\"_images/good-people.png\"></span>"
 %}
 
 
