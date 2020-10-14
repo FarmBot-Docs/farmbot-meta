@@ -55,10 +55,10 @@ We strive to do the right thing in every situation: for each other, our customer
 
 # What's next?
 
- * [Company History](../FarmBot-Inc/intro/company-history.md)
- * [Respecting Your Freedom](../FarmBot-Inc/intro/respecting-your-freedom.md)
- * [Ethics and Integrity](../FarmBot-Inc/intro/ethics-and-integrity.md)
- * [Licensing](../FarmBot-Inc/intro/licensing.md)
- * [Corporate Info](../FarmBot-Inc/intro/corporate-info.md)
- * [The FarmBot Whitepaper](../FarmBot-Inc/intro/whitepaper.md)
- * [Impact](../FarmBot-Inc/intro/impact.md)
+ * [Company History](intro/company-history.md)
+ * [Respecting Your Freedom](intro/respecting-your-freedom.md)
+ * [Ethics and Integrity](intro/ethics-and-integrity.md)
+ * [Licensing](intro/licensing.md)
+ * [Corporate Info](intro/corporate-info.md)
+ * [The FarmBot Whitepaper](intro/whitepaper.md)
+ * [Impact](intro/impact.md)

@@ -61,7 +61,7 @@ January, 2019 — Rory [spoke at Linux Conf Australia](https://farm.bot/blogs/ne
 
 January, 2019 — Surpassed 1,000 FarmBots sold.
 
-February, 2019 — Augmented company messaging to convey our [respect for user freedom](../intro/respecting-your-freedom.md) <span><img class="value-icon" src="_images/products.png"> <span><img class="value-icon" src="_images/good-people.png"></span>.
+February, 2019 — Augmented company messaging to convey our [respect for user freedom](respecting-your-freedom.md) <span><img class="value-icon" src="_images/products.png"> <span><img class="value-icon" src="_images/good-people.png"></span>.
 
 February, 2019 — Began offering [financing payment options](https://farm.bot/blogs/news/buy-farmbot-now-pay-over-time) with Affirm.
 

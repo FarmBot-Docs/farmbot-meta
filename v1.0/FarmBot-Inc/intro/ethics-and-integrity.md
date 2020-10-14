@@ -11,7 +11,7 @@ As part of our commitment to [be good people <span><img class="value-icon" src="
 * Being kind towards each other, our customers, our partners, and the planet.
 * Respecting user privacy, and carefully considering what data we collect and how we use that data.
 * Ensuring our marketing, customer support, and company messaging is honest and straightforward.
-* Making products that [respect user freedom](../intro/respecting-your-freedom.md), are safe and functional, and minimize damage to the environment.
+* Making products that [respect user freedom](respecting-your-freedom.md), are safe and functional, and minimize damage to the environment.
 * Generally trying to do what feels right in every situation.
 
 

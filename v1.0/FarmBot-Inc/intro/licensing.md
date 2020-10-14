@@ -8,7 +8,7 @@ slug: "licensing"
 
 FarmBot Inc is legally bound to [openly share its products <span><img class="value-icon" src="_images/products.png"></span>](../../FarmBot-Inc/intro.md#openly-share-our-products) at the time of public release, including but not limited to its hardware, software, and documentation.
 
-In doing so, we've chosen the following licenses for our works based on compliance with leading open source advocacy groups, such as the Open Source Initiative. Additionally, these licenses have been chosen to [respect your freedom](../intro/respecting-your-freedom.md) when it comes to all of our *functional* works and [maintain integrity](../intro/respecting-your-freedom.md#maintaining-integrity) when it comes to our *non-functional* works.
+In doing so, we've chosen the following licenses for our works based on compliance with leading open source advocacy groups, such as the Open Source Initiative. Additionally, these licenses have been chosen to [respect your freedom](respecting-your-freedom.md) when it comes to all of our *functional* works and [maintain integrity](respecting-your-freedom.md#maintaining-integrity) when it comes to our *non-functional* works.
 
 |Type of Work                  |License                       |
 |------------------------------|------------------------------|
@@ -53,12 +53,12 @@ Our non-functional works (marketing materials, brand assets, and our company mes
 
 In short, our non-functional works may be adapted and shared with attribution, but never for commercial purposes except under specially negotiated circumstances.
 
-For more information, see our section on [maintaining integrity](../intro/respecting-your-freedom.md#maintaining-integrity).
+For more information, see our section on [maintaining integrity](respecting-your-freedom.md#maintaining-integrity).
 
 # Why we chose permissive licenses instead of copyleft
 When selecting our open-source licenses, we had a decision to make: should the licenses be _permissive_ or _copyleft_?
 
-**Permissive licenses** allow our direct users to distribute copies of the work (verbatim or modified) with different licensing terms if they wish. For example, someone could add a new software feature to FarmBot OS and distribute *their version* with a proprietary (closed-source) license. Any users of that modified version may not have the same [freedoms](../intro/respecting-your-freedom.md) we grant to users of *our version*, depending on the specifics of the modified version's license.
+**Permissive licenses** allow our direct users to distribute copies of the work (verbatim or modified) with different licensing terms if they wish. For example, someone could add a new software feature to FarmBot OS and distribute *their version* with a proprietary (closed-source) license. Any users of that modified version may not have the same [freedoms](respecting-your-freedom.md) we grant to users of *our version*, depending on the specifics of the modified version's license.
 
 **Copyleft licenses** force everyone distributing copies of the work (verbatim or modified) to use the same licensing terms. In the case of a copyleft license that grants certain user freedoms, it means all other versions of the software are legally required to grant those same freedoms as well.
 

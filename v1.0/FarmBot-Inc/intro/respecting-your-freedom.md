@@ -6,7 +6,7 @@ slug: "respecting-your-freedom"
 * toc
 {:toc}
 
-All of our *[functional](#maintaining-integrity)* work (hardware, software, documentation, etc) is [licensed](../intro/licensing.md) such that you have the **freedom** to:
+All of our *[functional](#maintaining-integrity)* work (hardware, software, documentation, etc) is [licensed](licensing.md) such that you have the **freedom** to:
   * [Use the work](#using-the-work) as you wish, for any purpose.
   * Study the work, and [change it](#making-changes) so it functions as you wish.
   * [Distribute](#distribution) copies of the work and your modified versions so you can help others.
@@ -67,7 +67,7 @@ You may release your modified versions in any way, with any license that you wis
 include callout.html
 type="info"
 title="Permissive licensing"
-content="FarmBot Inc has chosen *permissive* open-source licenses for all of its *functional* work. (See the section on [maintaining integrity](#maintaining-integrity) for what doesn't qualify as functional work, and our [licensing page](../intro/licensing.md) for specific licensing details). This means you are free to distribute copies or modified versions of the work even for commercial purposes.
+content="FarmBot Inc has chosen *permissive* open-source licenses for all of its *functional* work. (See the section on [maintaining integrity](#maintaining-integrity) for what doesn't qualify as functional work, and our [licensing page](licensing.md) for specific licensing details). This means you are free to distribute copies or modified versions of the work even for commercial purposes.
 
 You also have the freedom to license your changes with a different license (such as a proprietary license), though we generally don't encourage this. Instead, we hope you will freely share your work with the community as well, and grant the same freedoms to others that we have granted to you."
 %}
