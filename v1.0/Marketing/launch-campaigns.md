@@ -33,27 +33,27 @@ slug: "launch-campaigns"
 # Day by day performance
 ## Genesis v1.2
 
-![Screen Shot 2019-08-01 at 12.51.34 PM.png](_images/Screen_Shot_2019-08-01_at_12.51.34_PM.png)
+![genesis v1.2](_images/genesis_v1.2.png)
 
 
 
-![Screen Shot 2019-08-01 at 12.47.16 PM.png](_images/Screen_Shot_2019-08-01_at_12.47.16_PM.png)
+![genesis v1.2 total](_images/genesis_v1.2_total.png)
 
 ## Genesis XL v1.4
 
-![Screen Shot 2019-08-01 at 12.51.00 PM.png](_images/Screen_Shot_2019-08-01_at_12.51.00_PM.png)
+![genesis xl v1.4](_images/genesis_xl_v1.4.png)
 
 
 
-![Screen Shot 2019-08-01 at 12.47.00 PM.png](_images/Screen_Shot_2019-08-01_at_12.47.00_PM.png)
+![genesis xl v1.4 total](_images/genesis_xl_v1.4_total.png)
 
 ## Express and Express XL v1.0
 
-![Screen Shot 2019-08-01 at 12.50.31 PM.png](_images/Screen_Shot_2019-08-01_at_12.50.31_PM.png)
+![express v1.0](_images/express_v1.0.png)
 
 
 
-![Screen Shot 2019-08-01 at 12.46.31 PM.png](_images/Screen_Shot_2019-08-01_at_12.46.31_PM.png)
+![express v1.0 total](_images/express_v1.0_total.png)
 
 
 

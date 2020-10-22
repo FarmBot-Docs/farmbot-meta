@@ -47,7 +47,7 @@ For international shipments sent via USPS, customs information is included on th
 ### UPS international shipments
 International shipments sent via UPS require three signed copies of the **commercial invoice** and one signed **UPS power of attorney (POA)**. The commercial invoices can be printed from Shipstation and must be signed and dated after printing. The power of attorney form can be found in the team Google Drive folder. It has already been digitally signed and dated and can be printed in bulk ahead of time and added to any international shipment's documentation pouch.
 
-![9798217-Inked45b3308-MVIMG_20180927_134328_LI.jpg](_images/Inked45b3308-MVIMG_20180927_134328_LI.jpg)
+![commercial invoices and UPS POA](_images/commercial_invoices_and_ups_poa.jpg)
 
 _Commercial invoices and UPS POA_
 
@@ -62,7 +62,7 @@ content="For multi-package shipments such as those including a complete FarmBot 
 
 
 
-![Inkeddf49008-MVIMG_20180927_134451_LI.jpg](_images/Inkeddf49008-MVIMG_20180927_134451_LI.jpg)
+![customs documents](_images/customs_documents.jpg)
 
 _Customs documents_
 

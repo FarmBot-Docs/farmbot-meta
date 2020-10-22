@@ -8,7 +8,7 @@ slug: "global-alert-bulletin-creation"
 
 The FarmBot API supports the creation of `Alert` records. When created, the alert will propagate to the **Message Center** of all users who have logged in within the last 7 months. This is especially useful when creating system-wide announcements, such as end-of-life dates and changelog updates.
 
-![Screen Shot 2019-05-07 at 3.30.45 PM.png](_images/Screen_Shot_2019-05-07_at_3.30.45_PM.png)
+![new bulletin screenshot](_images/new_bulletin_screenshot.png)
 
 _An example alert_
 
@@ -46,7 +46,7 @@ When you are done entering content, just type three `@` symbols on a new line:
 
 The above information will yield the following alert in the message center, with the button linking to [http://farm.bot](http://farm.bot).
 
-![Screen Shot 2019-05-07 at 3.25.20 PM.png](_images/Screen_Shot_2019-05-07_at_3.25.20_PM.png)
+![bulletin example screenshot](_images/bulletin_example_screenshot.png)
 
 # Alert types
 The following alert `type`s are available, which will determine what icon is shown in the top-left of the message.

@@ -21,7 +21,7 @@ The benefit purposes are in no particular order.
 
 ## Openly share our products
 
-![products.png](_images/products.png)
+![products](_images/products.png)
 
 Our company is founded on the belief that a more open food system is a better one. The following aspects of our products will be openly shared at the time the product is publicly released:
 
@@ -31,7 +31,7 @@ Our company is founded on the belief that a more open food system is a better on
 
 ## Openly share our business
 
-![business.png](_images/business.png)
+![business](_images/business.png)
 
 We believe that business is a powerful agent for change, and like our products, it can be more powerful when its details are openly shared for inspection, modification, and replication by others. The following aspects of our business will be shared for the benefit of our company, our customers, aspiring entrepreneurs, and the FarmBot community at large.
 
@@ -41,13 +41,13 @@ We believe that business is a powerful agent for change, and like our products, 
 
 ## 1% for the community
 
-![community.png](_images/community.png)
+![community](_images/community.png)
 
 Each year, we shall contribute one percent (1%) of our annual net revenue towards furthering The FarmBot Project’s mission to “Grow a community that produces free and open-source hardware plans, software, data, and documentation enabling everyone to build and operate a farming machine.” Contributions shall consist of cash, products, and services that directly help to maintain and grow the community.
 
 ## Be good people
 
-![good-people.png](_images/good-people.png)
+![good-people](_images/good-people.png)
 
 We strive to do the right thing in every situation: for each other, our customers, the environment, and all of our stakeholders. We make ethics, integrity, transparency, and community the cornerstones of our business.
 
