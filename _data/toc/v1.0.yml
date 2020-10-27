@@ -121,3 +121,9 @@ contents:
         pages:
           - title: California Sales and Use Tax
             url: california-sales-and-use-tax
+  - title: Legal
+    url: Legal
+    top: true
+    pages:
+      - title: Statement of Information
+        url: statement-of-information
