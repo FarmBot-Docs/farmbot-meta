@@ -11,7 +11,7 @@ April, 2011 — Rory had [the idea](https://www.youtube.com/watch?v=HIoVlPaypx4)
 
 June, 2013 — Rory graduated from Cal Poly with a BS in Mechanical Engineering and began writing [The FarmBot Whitepaper](http://whitepaper.farm.bot) in his spare time.
 
-September, 2013 — Rory published [The FarmBot Whitepaper](http://whitepaper.farm.bot) online as a free and open-source idea <span><img class="value-icon" src="_images/products.png"></span> and sent out a call for help to further develop the idea.
+September, 2013 — Rory published [The FarmBot Whitepaper](http://whitepaper.farm.bot) online as a free and open-source idea <span class="value-icon products"></span> and sent out a call for help to further develop the idea.
 
 October, 2013 — [Rick Carlino](http://rickcarlino.com/) and [Tim Evers](https://github.com/TimEvWw) offer to help with web application and firmware development respectively.
 
@@ -22,7 +22,7 @@ July, 2014 — Rory shares [his vision for the future of food](https://www.youtu
 October, 2015 — FarmBot [plants seeds for the first time](https://farm.bot/blogs/news/farmbot-plants-seeds-for-the-first-time).
 
 # 2016
-April, 2016 — Rory, Rick, and Tim incorporate FarmBot Inc. as a California Benefit Corporation, cementing [the project values into the company bylaws <span><img class="value-icon" src="_images/products.png"></span>  <span><img class="value-icon" src="_images/business.png"></span>  <span><img class="value-icon" src="_images/community.png"></span>  <span><img class="value-icon" src="_images/good-people.png"></span>](../intro.md#public-benefit-purposes).
+April, 2016 — Rory, Rick, and Tim incorporate FarmBot Inc. as a California Benefit Corporation, cementing [the project values into the company bylaws <span class="value-icon products"></span>  <span class="value-icon business"></span>  <span class="value-icon community"></span>  <span class="value-icon good-people"></span>](../intro.md#public-benefit-purposes).
 
 July, 2016 — Launched a [crowdfunding campaign](https://farm.bot/blogs/news/farmbot-now-available-for-pre-order) for FarmBot Genesis – Humanity’s First Open-Source CNC Farming Machine. During July, 275 pre-orders were accepted resulting in over [$800k in revenue](https://farm.bot/blogs/news/thank-you).
 
@@ -37,7 +37,7 @@ April, 2017 — Began production of 300 v1.3 kits.
 
 July, 2017 — Held our first company retreat at the NASA Kennedy Space Center for a [brainstorming event](https://farm.bot/blogs/news/brainstorming-innovative-open-source-approaches-food-production-nasa) on innovative open-source approaches to food production.
 
-October, 2017 — Open-sourced the [v1.3 documentation](https://farm.bot/blogs/news/v1-3-documentation-now-available) <span><img class="value-icon" src="_images/products.png"></span> and began shipping v1.3 kits to customers.
+October, 2017 — Open-sourced the [v1.3 documentation](https://farm.bot/blogs/news/v1-3-documentation-now-available) <span class="value-icon products"></span> and began shipping v1.3 kits to customers.
 
 December, 2017 — Debuted our second product: [FarmBot Genesis XL](https://farm.bot/blogs/news/farmbot-genesis-xl), and began accepting pre-orders for v1.4 hardware. With the introduction of Genesis XL, monthly revenue is doubled, surpassing $100k.
 
@@ -50,18 +50,18 @@ April, 2018 — Surpassed [100k Facebook followers](http://facebook.farm.bot).
 
 July, 2018 — Moved into a [5,000 square foot warehouse and office space](https://www.youtube.com/watch?v=cm8ZW52nhyQ) in San Luis Obispo.
 
-August, 2018 — Launched a [new website and online shop](https://farm.bot/blogs/news/check-out-our-brand-new-website-and-online-shop) powered by Shopify. Open-sourced the [v1.4 documentation](https://farm.bot/blogs/news/v1-4-documentation-now-available) <span><img class="value-icon" src="_images/products.png"></span> and [began shipping v1.4 kits](https://farm.bot/blogs/news/v1-4-pre-orders-now-shipping) to customers.
+August, 2018 — Launched a [new website and online shop](https://farm.bot/blogs/news/check-out-our-brand-new-website-and-online-shop) powered by Shopify. Open-sourced the [v1.4 documentation](https://farm.bot/blogs/news/v1-4-documentation-now-available) <span class="value-icon products"></span> and [began shipping v1.4 kits](https://farm.bot/blogs/news/v1-4-pre-orders-now-shipping) to customers.
 
-September, 2018 — [Launched](https://farm.bot/blogs/news/introducing-the-farmbot-developer-documentation-hub) our [developer documentation hub](http://developer.farm.bot) <span><img class="value-icon" src="_images/products.png"></span>, empowering 3rd party to developers to develop plugins, integrations, and improvements with us.
+September, 2018 — [Launched](https://farm.bot/blogs/news/introducing-the-farmbot-developer-documentation-hub) our [developer documentation hub](http://developer.farm.bot) <span class="value-icon products"></span>, empowering 3rd party to developers to develop plugins, integrations, and improvements with us.
 
-December, 2018 — Began [openly sharing our business](../intro.md#openly-share-our-business) with the [launch](https://farm.bot/blogs/news/openly-sharing-our-business) of our [business documentation hub](http://meta.farm.bot) <span><img class="value-icon" src="_images/business.png"></span>.
+December, 2018 — Began [openly sharing our business](../intro.md#openly-share-our-business) with the [launch](https://farm.bot/blogs/news/openly-sharing-our-business) of our [business documentation hub](http://meta.farm.bot) <span class="value-icon business"></span>.
 
 # 2019
-January, 2019 — Rory [spoke at Linux Conf Australia](https://farm.bot/blogs/news/raising-the-bar-of-great-documentation), evangelizing the need for great open-source documentation across hardware, software, community, and business <span><img class="value-icon" src="_images/products.png"></span>  <span><img class="value-icon" src="_images/business.png"></span>  <span><img class="value-icon" src="_images/community.png"></span>.
+January, 2019 — Rory [spoke at Linux Conf Australia](https://farm.bot/blogs/news/raising-the-bar-of-great-documentation), evangelizing the need for great open-source documentation across hardware, software, community, and business <span class="value-icon products"></span>  <span class="value-icon business"></span>  <span class="value-icon community"></span>.
 
 January, 2019 — Surpassed 1,000 FarmBots sold.
 
-February, 2019 — Augmented company messaging to convey our [respect for user freedom](respecting-your-freedom.md) <span><img class="value-icon" src="_images/products.png"> <span><img class="value-icon" src="_images/good-people.png"></span>.
+February, 2019 — Augmented company messaging to convey our [respect for user freedom](respecting-your-freedom.md) <span class="value-icon products"></span> <span class="value-icon good-people"></span>.
 
 February, 2019 — Began offering [financing payment options](https://farm.bot/blogs/news/buy-farmbot-now-pay-over-time) with Affirm.
 
@@ -75,7 +75,7 @@ July, 2019 — Launched a pre-order campaign for [FarmBot Express and Express XL
 
 July, 2019 — Announced the [beta of FarmBot OS v8](https://farm.bot/blogs/news/july-3rd-2019-software-update-farmbot-os-v8-beta-variables-and-much-more), bringing runtime variables to FarmBot.
 
-July, 2019 — Transitioned from private to [public software development](https://farm.bot/blogs/news/july-2019-developer-update) <span><img class="value-icon" src="_images/products.png"></span> to engage more 3rd party developers.
+July, 2019 — Transitioned from private to [public software development](https://farm.bot/blogs/news/july-2019-developer-update) <span class="value-icon products"></span> to engage more 3rd party developers.
 
 July, 2019 — Surpassed 10k followers on [Instagram](http://instagram.farm.bot).
 

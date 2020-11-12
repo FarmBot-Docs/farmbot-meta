@@ -7,7 +7,7 @@ description: "Send reports to safety@farm.bot"
 * toc
 {:toc}
 
-A primary goal of our community is to be inclusive to the largest number of participants with the most varied and diverse backgrounds possible <span><img class="value-icon" src="_images/good-people.png"></span>. As such, we are committed to providing a safe and welcoming environment for all, regardless of race, gender, sexual orientation, functional diversity, physical appearance, ethnicity, nationality, or religion (or lack thereof); and lifestyle choices and practices including those related to food, health, parenting, drugs, farming and gardening, and employment.
+A primary goal of our community is to be inclusive to the largest number of participants with the most varied and diverse backgrounds possible <span class="value-icon good-people"></span>. As such, we are committed to providing a safe and welcoming environment for all, regardless of race, gender, sexual orientation, functional diversity, physical appearance, ethnicity, nationality, or religion (or lack thereof); and lifestyle choices and practices including those related to food, health, parenting, drugs, farming and gardening, and employment.
 
 We have written this code of conduct not because we expect bad behavior from our community—which, in our experience, is overwhelmingly kind and civil—but because we believe a clear code of conduct is a necessary part of building a respectful community. Whether you’re a regular participant or a newcomer, we care about making this community a safe place for you and we’ve got your back.
 

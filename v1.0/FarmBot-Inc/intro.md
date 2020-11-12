@@ -1,7 +1,7 @@
 ---
 title: "Intro to FarmBot Inc"
 slug: "intro"
-description: "Open documentation for the way we do business <span><img class=\"value-icon\" src=\"_images/business.png\"></span>"
+description: "Open documentation for the way we do business <span class=\"value-icon business\"></span>"
 redirect_from: /docs/v1.0/
 ---
 
