@@ -55,7 +55,6 @@ We strive to do the right thing in every situation: for each other, our customer
 
 # What's next?
 
- * [Company History](intro/company-history.md)
  * [Respecting Your Freedom](intro/respecting-your-freedom.md)
  * [Ethics and Integrity](intro/ethics-and-integrity.md)
  * [Licensing](intro/licensing.md)
