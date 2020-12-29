@@ -9,8 +9,6 @@ contents:
       - title: Intro to FarmBot Inc
         url: intro
         pages:
-          - title: Company History
-            url: company-history
           - title: Respecting Your Freedom
             url: respecting-your-freedom
           - title: Ethics and Integrity
@@ -23,6 +21,21 @@ contents:
             url: whitepaper
           - title: Impact
             url: impact
+      - title: Company History
+        url: company-history
+        pages:
+          - title: "2011 - 2015"
+            url: "2011-2015"
+          - title: "2016"
+            url: "2016"
+          - title: "2017"
+            url: "2017"
+          - title: "2018"
+            url: "2018"
+          - title: "2019"
+            url: "2019"
+          - title: "2020"
+            url: "2020"
       - title: Human Resources
         url: human-resources
         pages:
