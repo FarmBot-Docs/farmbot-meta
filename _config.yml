@@ -2,7 +2,6 @@ title: FarmBot Business Documentation
 url: https://meta.farm.bot
 description: Open documentation for the way we do business
 logo: /assets/images/documentation.png
-theme: jekyll-theme-cayman
 remote_theme: FarmBot-Docs/farmbot-theme@main
 baseurl: /
 color: '#434343'
@@ -11,6 +10,7 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-seo-tag
 include:
   - _images
   - _redirects
