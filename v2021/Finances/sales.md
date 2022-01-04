@@ -1,7 +1,7 @@
 ---
 title: "Sales"
 slug: "sales"
-description: "Last updated January 3, 2021"
+description: "Last updated January 4, 2022"
 ---
 
 * toc
@@ -9,26 +9,26 @@ description: "Last updated January 3, 2021"
 
 # By FarmBot
 
-|Product Line   |Version          |Qty Sold  |Selling Period     |Average Price       |Net Sales |
-|---------------|-----------------|----------|-------------------|--------------------|----------|
-|**Genesis**    |**All versions** |**1,304** |                   |**$2,712**          |**$3,536,254**
-|               |v1.2             |344       |Jun '16 to Jan '17 |$2,897              |$996,480
-|               |v1.3             |286       |Jan '17 to May '18 |$2,630              |$752,260
-|               |v1.4             |293       |Dec '17 to Nov '19 |$2,411              |$706,337
-|               |v1.5             |248       |Nov '19 to Feb '21 |$2,639              |$654,434
-|               |v1.6             |133       |Mar '21 to ...     |$3,209              |$426,743
-|**Genesis XL** |**All versions** |**482**   |                   |**$3,967**          |**$1,912,009**
-|               |v1.4             |198       |Dec '17 to Mar '19 |$3,539              |$700,799
-|               |v1.5             |216       |Mar '19 to Apr '21 |$4,112              |$888,204
-|               |v1.6             |68        |Mar '21 to...      |$4,750              |$323,006
-|**Express**    |**All versions** |**204**   |                   |**$1,526**          |**$311,206**
-|               |v1.0             |168       |Jul '19 to Apr '21 |$1,534              |$257,656
-|               |v1.1             |36        |Mar '21 to...      |$1,488              |$53,550
-|**Express XL** |**All versions** |**256**   |                   |**$1,800**          |**$460,832**
-|               |v1.0             |241       |Jul '19 to Aug '21 |$1,792              |$431,760
-|               |v1.1             |15        |Apr '21 to...      |$1,938              |$29,072
-|===============|=================|==========|===================|====================|
-|**All lines**  |**All versions** |**2,246** |                   |**$2,770**          |**$6,220,301**
+|FarmBot        |Version |Qty       |Selling Period     |Avg. Price          |Net Sales |
+|---------------|--------|----------|-------------------|--------------------|----------|
+|**Genesis**    |**All** |**1,304** |                   |**$2,712**          |**$3,536,254**
+|               |v1.2    |344       |Jun '16 to Jan '17 |$2,897              |$996,480
+|               |v1.3    |286       |Jan '17 to May '18 |$2,630              |$752,260
+|               |v1.4    |293       |Dec '17 to Nov '19 |$2,411              |$706,337
+|               |v1.5    |248       |Nov '19 to Feb '21 |$2,639              |$654,434
+|               |v1.6    |133       |Mar '21 to ...     |$3,209              |$426,743
+|**Genesis XL** |**All** |**482**   |                   |**$3,967**          |**$1,912,009**
+|               |v1.4    |198       |Dec '17 to Mar '19 |$3,539              |$700,799
+|               |v1.5    |216       |Mar '19 to Apr '21 |$4,112              |$888,204
+|               |v1.6    |68        |Mar '21 to...      |$4,750              |$323,006
+|**Express**    |**All** |**204**   |                   |**$1,526**          |**$311,206**
+|               |v1.0    |168       |Jul '19 to Apr '21 |$1,534              |$257,656
+|               |v1.1    |36        |Mar '21 to...      |$1,488              |$53,550
+|**Express XL** |**All** |**256**   |                   |**$1,800**          |**$460,832**
+|               |v1.0    |241       |Jul '19 to Aug '21 |$1,792              |$431,760
+|               |v1.1    |15        |Apr '21 to...      |$1,938              |$29,072
+|===============|========|==========|===================|====================|
+|**All**        |**All** |**2,246** |                   |**$2,770**          |**$6,220,301**
 
 {%
 include callout.html
@@ -44,6 +44,12 @@ content="The size and strength of our business will scale somewhat proportionall
 %}
 
 # By year and quarter
+
+{%
+include callout.html
+type="info"
+content="Note that this table includes all orders (full kits, replacement parts, individual parts, etc)."
+%}
 
 |Period    |Orders  |Average Order Value|Total Sales|
 |----------|--------|-------------------|-----------|

@@ -1,24 +1,31 @@
 ---
 title: "Profit"
 slug: "profit"
-description: "Last updated August 7, 2019"
+description: "Last updated January 4, 2021"
 ---
 
 * toc
 {:toc}
 
 
-|Product Line                  |Version                       |Margin/Unit                   |Qty Sold                      |Total Profit                  |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|**All lines**                 |**All versions**              |**$2,060.18**                 |**1,089**                     |**$2,243,536.02**
-|**Genesis**                   |**All versions**              |**$1,933.77**                 |**896**                       |**$1,732,657.92**
-|                              |[v1.2](https://farmbot.myshopify.com/admin/reports/161808482)|$2,218.13                     |341                           |$756,382.33
-|                              |[v1.3](https://farmbot.myshopify.com/admin/reports/161742946)|$1,902.28                     |286                           |$544,052.08
-|                              |[v1.4](https://farmbot.myshopify.com/admin/reports/161775714)|$1,611.50                     |269                           |$433,493.50
-|**Genesis XL**                |**All versions**              |**$2,643.15**                 |**193**                       |**$510,127.95**
-|                              |[v1.4](https://farmbot.myshopify.com/admin/reports/161710178)|$2,643.15                     |193                           |$510,127.95
-
-
+|FarmBot        |Version  |Margin/Unit  |Qty Sold   |Total Profit    |
+|---------------|---------|-------------|-----------|----------------|
+|**Genesis**    |**All**  |**$1,943**   |**1,304**  |**$2,534,004**
+|               |v1.2     |$2,218       |344        |$762,992
+|               |v1.3     |$1,902       |286        |$543,972
+|               |v1.4     |$1,621       |293        |$474,953
+|               |v1.5     |$1,834       |248        |$454,832
+|               |v1.6     |$2,235       |133        |$297,255
+|**Genesis XL** |**All**  |**$3,003**   |**477**    |**$1,432,203**
+|               |v1.4     |$2,603       |193        |$502,379
+|               |v1.5     |$3,167       |216        |$684,072
+|               |v1.6     |$3,614       |68         |$245,752
+|**Express**    |**All**  |**$1,099**   |**168**    |**$184,632**
+|               |v1.0     |$1,099       |168        |$184,632
+|**Express XL** |**All**  |**$1,306**   |**241**    |**$314,746**
+|               |v1.0     |$1,306       |241        |$314,746
+|===============|=========|=============|===========|================|
+|**All**        |**All**  |**$2,039**   |**2,190**  |**$4,465,585**
 
 {%
 include callout.html
@@ -27,15 +34,9 @@ title=""
 content="Margin/Unit does not currently account for tooling fees, shipping fees, or import taxes. **This results in an overestimated Profit.**"
 %}
 
-
-
 {%
 include callout.html
 type="success"
 title="KPI: Profit"
 content="Our profit from kit sales is the money we use to pay team members, conduct R&D, and run and grow the business."
 %}
-
-
-
-
