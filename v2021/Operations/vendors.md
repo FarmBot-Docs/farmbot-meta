@@ -13,18 +13,17 @@ slug: "vendors"
 |Application hosting           |Digital Ocean<br>Heroku
 |Continuous Integration        |CircleCI
 |Customer support              |Intercom
-|Documentation hubs            |Readme
+|Documentation hubs            |GitHub Pages
 |Domain registrations          |Endicia<br>Google Domains<br>iwantmyname
 |DNS                           |Cloudflare<br>DNSimple
 |E-commerce shop               |Shopify
-|Email newsletter              |Mailchimp
-|Error monitoring              |Rollbar
+|Email newsletter              |Mailchimp<br>Shopify Email<br>Zapier
+|Error monitoring              |Rollbar<br>Datadog
 |Message broker                |Cloud AMQP
 |Payment processors            |Affirm<br>PayPal<br>Shopify Payments
-|Performance monitoring        |Skylight
 |Shipping logistics            |Shipstation
-|Social media management       |Buffer
-|SSL certificates              |GlobalSign<br>Let's Encrypt
+|Social media management       |Later
+|SSL certificates              |GlobalSign<br>Let's Encrypt<br>ZeroSSL
 |Team collaboration            |G Suite<br>GitHub<br>Slack<br>Trello
 
 # Physical locations
@@ -40,21 +39,23 @@ slug: "vendors"
 
 ## Chicago satellite
 
-|Service                       |Vendors                       |                              |
-|------------------------------|------------------------------|------------------------------|
+|Service                       |Vendors                       |
+|------------------------------|------------------------------|
 |Office space                  |Fox.Build                     |
 
 # Banking services
 
-|Institution                   |Services                      |                              |
-|------------------------------|------------------------------|------------------------------|
-|American Express              |Credit card                   |
-|Wells Fargo                   |Checking and savings accounts, credit cards|
+|Institution                   |Services                      |
+|------------------------------|------------------------------|
+|American Express              |Credit cards
+|Wells Fargo                   |Checking, savings, credit cards, line of credit
+|PayPal                        |Payments
+|Brex                          |International wire transfers
 
 # Shipping and logistics
 
-|Vendor                        |Service                       |                              |
-|------------------------------|------------------------------|------------------------------|
+|Vendor                        |Service                       |
+|------------------------------|------------------------------|
 |USPS                          |Domestic and international shipments under 1lb|
 |UPS                           |Domestic and international shipments over 1lb|
 |Shipstation                   |Shipping label and international documentation creation|

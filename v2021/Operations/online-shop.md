@@ -6,7 +6,7 @@ slug: "online-shop"
 * toc
 {:toc}
 
-All of our revenue comes from sales of hardware through our online shop, which is powered by **Shopify Plus**. Here are some important links when working with the shop:
+All of our revenue comes from sales of hardware through our online shop, which is powered by **Shopify**. Here are some important links when working with the shop:
 
 |Link                          |Destination                   |
 |------------------------------|------------------------------|
@@ -14,23 +14,7 @@ All of our revenue comes from sales of hardware through our online shop, which i
 |[neworder.farm.bot](http://neworder.farm.bot)|Draft order page
 |[newblog.farm.bot](http://newblog.farm.bot)|Draft blog post page
 
-
-# Orders with and without full kits
-
-|Order Type                    |# of Orders                   |% of Orders                   |AOV                           |Sales                         |% of Sales                    |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|All orders                    |916                           |100%                          |$2,714.62                     |$2,486,594.55                 |100%
-|[With full kit](https://farmbot.myshopify.com/admin/reports/161644642)|804                           |87.8%                         |$3,059.45                     |$2,459,798.25                 |98.9%
-|[Without full kit](https://farmbot.myshopify.com/admin/reports/161677410)|112                           |12.2%                         |$239.25                       |$26,796.30                    |1.1%
-
-
-
-{%
-include callout.html
-type="info"
-title=""
-content="Average order value (AOV) and Sales include shipping charges."
-%}
+In addition to selling full FarmBot kits, we sell various spare parts that can be used as replacements, extra parts to modify a full kit, or as key components in a DIY build.
 
 You might be thinking: why put in so much effort to maintain a full online shop of individual parts, track inventory, and bother fulfilling orders without full kits when these orders only contribute to about 1% of total sales? The answer is a two-parter:
 
@@ -40,21 +24,17 @@ You might be thinking: why put in so much effort to maintain a full online shop 
 
 # Domestic vs international orders
 
-|Destination                   |# of Orders                   |% of Orders                   |
-|------------------------------|------------------------------|------------------------------|
-|All                           |916                           |100.0%
-|[Domestic](https://farmbot.myshopify.com/admin/reports/161906786)|472                           |51.5%
-|[International](https://farmbot.myshopify.com/admin/reports/161939554)|443                           |48.5%
+|Destination   |Orders|Revenue    |% of Total |
+|--------------|-----:|----------:|----------:|
+|Domestic      |1,852 |$3,580,778 |52.2%
+|International |1,571 |$3,284,744 |47.8%
+|==============|======|===========|===========|
+|All           |3,423 |$6,865,522 |100.0%
 
-# Orders by customer vertical
+_Last updated January 4, 2022_
 
-|Customer Vertical             |# of Orders                   |% of Orders                   |
-|------------------------------|------------------------------|------------------------------|
-|All                           |916                           |100.0%
-|Individual/Family             |                              |
-|Education                     |                              |
-|Commercial                    |                              |
-
-
-
-
+{%
+include callout.html
+type="calculator"
+content="[Shopify report](https://farmbot.myshopify.com/admin/reports/2537193570?since=2016-01-01&until=2021-12-31) for this table."
+%}

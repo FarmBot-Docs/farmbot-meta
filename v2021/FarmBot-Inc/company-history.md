@@ -14,3 +14,4 @@ slug: "company-history"
  * [2018](company-history/2018.md)
  * [2019](company-history/2019.md)
  * [2020](company-history/2020.md)
+ * [2021](company-history/2021.md)
