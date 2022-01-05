@@ -1,7 +1,7 @@
 ---
 title: "Profit"
 slug: "profit"
-description: "Last updated January 4, 2021"
+description: "Last updated January 4, 2022"
 ---
 
 * toc
