@@ -8,7 +8,7 @@ slug: "impact"
 
 # Potential area serviced by FarmBots
 
-Last updated January 4, 2021
+Last updated January 4, 2022
 
 |FarmBot         |Version  |Qty Shipped |Area Covered/Unit (80%) |Total Area Covered (80%) |
 |----------------|---------|------------|------------------------|-------------------------|
