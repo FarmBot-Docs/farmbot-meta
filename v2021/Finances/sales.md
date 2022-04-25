@@ -4,9 +4,6 @@ slug: "sales"
 description: "Last updated January 4, 2022"
 ---
 
-* toc
-{:toc}
-
 # By FarmBot
 
 |FarmBot        |Version |Qty       |Selling Period     |Avg. Price          |Net Sales |

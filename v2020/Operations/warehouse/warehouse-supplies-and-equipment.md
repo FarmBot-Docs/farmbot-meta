@@ -4,9 +4,6 @@ slug: "warehouse-supplies-and-equipment"
 description: "Last updated February 24, 2020."
 ---
 
-* toc
-{:toc}
-
 Below are all of the warehouse supplies and equipment we've purchased to date.
 
 # Boxes

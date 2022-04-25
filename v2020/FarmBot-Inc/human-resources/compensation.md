@@ -3,9 +3,6 @@ title: "Compensation"
 slug: "compensation"
 ---
 
-* toc
-{:toc}
-
 # Pay formula
 To help us achieve pay equity, we have adopted the following formulas that apply to all of our team members:
 

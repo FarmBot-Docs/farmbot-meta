@@ -4,9 +4,6 @@ slug: "warehouse"
 description: "5,000 square foot facility located in San Luis Obispo, CA"
 ---
 
-* toc
-{:toc}
-
 The FarmBot warehouse is where we store and ship all FarmBot kits and individual parts from. Our lease in this space began on July 1st, 2018.
 
 ![warehouse](_images/warehouse.jpg)

@@ -4,9 +4,6 @@ slug: "manufacturing"
 description: "Last updated January 5, 2022"
 ---
 
-* toc
-{:toc}
-
 
 |FarmBot         |Version |Qty Mfg'd                    |Cost/Unit    |Total Cost          |
 |----------------|--------|-----------------------------|-------------|--------------------|

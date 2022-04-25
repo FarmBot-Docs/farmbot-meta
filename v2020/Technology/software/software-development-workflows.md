@@ -3,9 +3,6 @@ title: "Software Development Workflows"
 slug: "software-development-workflows"
 ---
 
-* toc
-{:toc}
-
 This document outlines FarmBot's day-to-day software development practices as used by the software development team. It outlines the non-technical aspects of software development at FarmBot, Inc. For a technical overview of our software development, please see the [developer portal](https://developer.farm.bot).
 
 # Tools

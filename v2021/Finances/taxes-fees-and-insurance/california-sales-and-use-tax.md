@@ -3,9 +3,6 @@ title: "California Sales and Use Tax"
 slug: "california-sales-and-use-tax"
 ---
 
-* toc
-{:toc}
-
 This tax must be paid for on a quarterly basis. The amount is based on sales to California customers.
 
 # Filing

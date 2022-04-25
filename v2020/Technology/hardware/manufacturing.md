@@ -4,9 +4,6 @@ slug: "manufacturing"
 description: "Last updated August 7, 2019"
 ---
 
-* toc
-{:toc}
-
 
 |Product Line                  |Version                       |Qty Mfg'd                     |Cost/Unit                     |Total Cost                    |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

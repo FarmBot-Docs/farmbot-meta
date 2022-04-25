@@ -4,9 +4,6 @@ slug: "profit"
 description: "Last updated August 7, 2019"
 ---
 
-* toc
-{:toc}
-
 
 |Product Line                  |Version                       |Margin/Unit                   |Qty Sold                      |Total Profit                  |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

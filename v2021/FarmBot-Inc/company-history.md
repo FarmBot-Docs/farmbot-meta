@@ -3,9 +3,6 @@ title: "Company History"
 slug: "company-history"
 ---
 
-* toc
-{:toc}
-
 # What's next?
 
  * [2011 - 2015](company-history/2011-2015.md)

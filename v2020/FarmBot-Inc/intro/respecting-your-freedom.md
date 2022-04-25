@@ -3,9 +3,6 @@ title: "Respecting Your Freedom"
 slug: "respecting-your-freedom"
 ---
 
-* toc
-{:toc}
-
 All of our *[functional](#maintaining-integrity)* work (hardware, software, documentation, etc) is [licensed](licensing.md) such that you have the **freedom** to:
   * [Use the work](#using-the-work) as you wish, for any purpose.
   * Study the work, and [change it](#making-changes) so it functions as you wish.

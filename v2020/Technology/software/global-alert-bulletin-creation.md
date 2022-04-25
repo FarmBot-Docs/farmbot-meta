@@ -3,9 +3,6 @@ title: "Global Alert (Bulletin) Creation"
 slug: "global-alert-bulletin-creation"
 ---
 
-* toc
-{:toc}
-
 The FarmBot API supports the creation of `Alert` records. When created, the alert will propagate to the **Message Center** of all users who have logged in within the last 7 months. This is especially useful when creating system-wide announcements, such as end-of-life dates and changelog updates.
 
 ![new bulletin screenshot](_images/new_bulletin_screenshot.png)

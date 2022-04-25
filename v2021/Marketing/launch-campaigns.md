@@ -3,9 +3,6 @@ title: "Launch Campaigns"
 slug: "launch-campaigns"
 ---
 
-* toc
-{:toc}
-
 # Paid advertising
 
 |Campaign                      |Spend                         |Reach                         |Frequency                     |Impressions                   |CPM                           |Sessions                      |$/session                     |

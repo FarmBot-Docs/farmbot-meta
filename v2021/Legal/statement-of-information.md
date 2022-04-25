@@ -3,9 +3,6 @@ title: "Statement of Information (Form SI-100)"
 slug: "statement-of-information"
 ---
 
-* toc
-{:toc}
-
 
 Once per year, a **Statement of Information** must be filed with the California Secretary of State for OpenFarm Inc. The state will send a **Reminder Notice Postcard** in the mail when it is time to file. When the postcard is received, complete the filing using the instructions below.
 

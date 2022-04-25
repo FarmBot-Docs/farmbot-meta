@@ -4,9 +4,6 @@ slug: "replacement-parts-and-returns"
 description: "Read our official [warranty](https://farm.bot/pages/warranty) and [return policy](https://farm.bot/pages/returns)"
 ---
 
-* toc
-{:toc}
-
 As a business that [strives to do the right thing in every situation <span class="value-icon good-people"></span>](../../FarmBot-Inc/intro.md#be-good-people), we frequently exercise personal judgement when determining the course of action to take for replacement part and return requests. While we'll never provide lesser service than that guaranteed in our official [warranty](https://farm.bot/pages/warranty) and [return policy](https://farm.bot/pages/returns), we will often go above and beyond our legal obligations to increase customer satisfaction and make things right.
 
 The tables below show example courses of action we have taken for various replacement part and return requests. These examples are meant to illustrate the circumstances in which we:

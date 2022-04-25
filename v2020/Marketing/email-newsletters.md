@@ -3,9 +3,6 @@ title: "Email Newsletters"
 slug: "email-newsletters"
 ---
 
-* toc
-{:toc}
-
 We use mailchimp to send the following types of email newsletters:
   * News and promotions to our **FarmBot newsletter** email list which contains all addresses that have opted-in to email marketing from us.
   * Automated multi-part welcome series sent to those who subscribe to our FarmBot newsletter list.

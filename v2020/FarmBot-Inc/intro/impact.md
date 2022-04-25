@@ -3,9 +3,6 @@ title: "Impact"
 slug: "impact"
 ---
 
-* toc
-{:toc}
-
 # Area covered by FarmBots
 Last updated August 7, 2019
 

@@ -3,9 +3,6 @@ title: "Customer Support"
 slug: "customer-support"
 ---
 
-* toc
-{:toc}
-
 
 
 

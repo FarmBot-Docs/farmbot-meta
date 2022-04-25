@@ -4,9 +4,6 @@ slug: "part-naming-convention"
 description: "Scheme for accurately identifying FarmBot parts"
 ---
 
-* toc
-{:toc}
-
 The following **part naming convention** applies across our product offerings and throughout the prototyping and R&D phase. Use the convention when writing docs, providing customer support, listing a product for sale, designing parts, and in discussions with manufacturing partners.
 
 # Convention

@@ -3,9 +3,6 @@ title: "Taxes, Fees, and Insurance"
 slug: "taxes-fees-and-insurance"
 ---
 
-* toc
-{:toc}
-
 FarmBot Inc pays the following taxes and fees.
 
 # Federal

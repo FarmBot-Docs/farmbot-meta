@@ -3,9 +3,6 @@ title: "Human Resources"
 slug: "human-resources"
 ---
 
-* toc
-{:toc}
-
 
 
 

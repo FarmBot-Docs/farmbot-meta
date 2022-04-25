@@ -3,9 +3,6 @@ title: "Capitalization"
 slug: "capitalization"
 ---
 
-* toc
-{:toc}
-
 FarmBot Inc is currently wholly owned by the co-founders according to the capitalization table below.
 
 |Founder                       |Stock Type                    |Shares                        |%                             |

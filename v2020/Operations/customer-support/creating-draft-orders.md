@@ -3,9 +3,6 @@ title: "Creating Draft Orders"
 slug: "creating-draft-orders"
 ---
 
-* toc
-{:toc}
-
 Sometimes a customer is not able to simply place an order in our online shop. Instead, they require us to create a **draft order** in Shopify, and then send them the email link to complete the purchase. Here are some common examples when we need to do this:
 
 * A school is applying for grant money and needs an official quote from us.

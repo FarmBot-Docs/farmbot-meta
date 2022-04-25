@@ -3,9 +3,6 @@ title: "Software"
 slug: "software"
 ---
 
-* toc
-{:toc}
-
 
 
 
