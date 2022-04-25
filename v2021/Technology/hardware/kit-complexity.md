@@ -3,9 +3,6 @@ title: "Kit Complexity"
 slug: "kit-complexity"
 ---
 
-* toc
-{:toc}
-
 The following table illustrates the complexity of our kits.
 
 |Product Line   |Version  |# Parts |Est. Assembly Hours\* |

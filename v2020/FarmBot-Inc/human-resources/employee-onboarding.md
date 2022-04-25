@@ -3,9 +3,6 @@ title: "Employee Onboarding"
 slug: "employee-onboarding"
 ---
 
-* toc
-{:toc}
-
 The following process are required when onboarding a new team member.
 
 # Execute contract

@@ -3,9 +3,6 @@ title: "Social Media"
 slug: "social-media"
 ---
 
-* toc
-{:toc}
-
 # Accounts
 FarmBot Inc has the following social media accounts and other listings. Only some are actively maintained and updated regularly.
 

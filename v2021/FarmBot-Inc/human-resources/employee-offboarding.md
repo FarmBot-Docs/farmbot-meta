@@ -3,9 +3,6 @@ title: "Employee Offboarding"
 slug: "employee-offboarding"
 ---
 
-* toc
-{:toc}
-
 The following processes are required when offboarding a team member.
 
 # Payroll

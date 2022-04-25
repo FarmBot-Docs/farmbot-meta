@@ -3,9 +3,6 @@ title: "Email Newsletters"
 slug: "email-newsletters"
 ---
 
-* toc
-{:toc}
-
 When someone signs up for our email newsletter, we add them to an automated multi-part welcome series of emails that is sent from Mailchimp. The series includes about 15 emails sent over approximately 6 weeks. After the final email in the series is sent, we use Zapier to port the email address over to our subscriber list in Shopify Email.
 
 We use Shopify Email to send the following types of email newsletters:

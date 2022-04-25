@@ -3,9 +3,6 @@ title: "Vendors"
 slug: "vendors"
 ---
 
-* toc
-{:toc}
-
 # Digital services
 
 |Service                       |Vendors                       |

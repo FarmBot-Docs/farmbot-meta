@@ -3,9 +3,6 @@ title: "Impact"
 slug: "impact"
 ---
 
-* toc
-{:toc}
-
 # Potential area serviced by FarmBots
 
 Last updated January 4, 2022

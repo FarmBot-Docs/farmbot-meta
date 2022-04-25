@@ -3,9 +3,6 @@ title: "Deployment of Web Services"
 slug: "deployment-of-web-services"
 ---
 
-* toc
-{:toc}
-
 # Software development workflow
 
  * Changes to the core software are developed in feature branches.

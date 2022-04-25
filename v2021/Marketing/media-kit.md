@@ -4,9 +4,6 @@ slug: "media-kit"
 description: "Media you are free to use when sharing our technology and vision"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

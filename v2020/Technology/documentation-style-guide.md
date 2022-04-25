@@ -3,9 +3,6 @@ title: "Documentation Style Guide"
 slug: "documentation-style-guide"
 ---
 
-* toc
-{:toc}
-
 In order to provide a documentation consumption experience that is consistent, beautiful, and joyful to use, we have adopted the following style guide that is to be used throughout all documentation hubs.
 
 {%

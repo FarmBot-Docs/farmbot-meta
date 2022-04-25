@@ -3,9 +3,6 @@ title: "Data Backup and Recovery"
 slug: "data-recovery"
 ---
 
-* toc
-{:toc}
-
 Staging and production environments vary slightly in how they are backed up and rolled back.
 
 # Staging environments

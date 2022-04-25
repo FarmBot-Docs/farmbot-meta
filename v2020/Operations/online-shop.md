@@ -3,9 +3,6 @@ title: "Online Shop"
 slug: "online-shop"
 ---
 
-* toc
-{:toc}
-
 All of our revenue comes from sales of hardware through our online shop, which is powered by **Shopify Plus**. Here are some important links when working with the shop:
 
 |Link                          |Destination                   |

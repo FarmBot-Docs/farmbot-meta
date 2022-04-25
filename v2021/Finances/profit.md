@@ -4,9 +4,6 @@ slug: "profit"
 description: "Last updated January 4, 2022"
 ---
 
-* toc
-{:toc}
-
 
 |FarmBot        |Version  |Margin/Unit  |Qty Sold   |Total Profit    |
 |---------------|---------|-------------|-----------|----------------|

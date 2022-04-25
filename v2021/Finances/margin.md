@@ -4,9 +4,6 @@ slug: "margin"
 description: "Last updated January 4, 2022"
 ---
 
-* toc
-{:toc}
-
 
 |FarmBot        |Version |ASP        |Cost/Unit|Margin/Unit |% Margin/Unit|
 |---------------|--------|-----------|---------|------------|-------------|

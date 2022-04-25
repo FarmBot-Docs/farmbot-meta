@@ -3,9 +3,6 @@ title: "Pushing FarmBot OS Updates"
 slug: "pushing-farmbot-os-updates"
 ---
 
-* toc
-{:toc}
-
 Currently with the NervesHub update system, there are the following channels:
 
 |Channel                       |Deployed by...                |When...                       |Notes                         |

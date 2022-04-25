@@ -3,9 +3,6 @@ title: "Blogging"
 slug: "blogging"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

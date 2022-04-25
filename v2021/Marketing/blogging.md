@@ -3,9 +3,6 @@ title: "Blogging"
 slug: "blogging"
 ---
 
-* toc
-{:toc}
-
 The [company blog](http://blog.farm.bot) is used to document major developments across the business including:
 
 * Hardware releases

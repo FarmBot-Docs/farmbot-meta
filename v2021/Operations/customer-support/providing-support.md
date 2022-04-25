@@ -3,9 +3,6 @@ title: "Providing Support"
 slug: "providing-support"
 ---
 
-* toc
-{:toc}
-
 Providing support is expensive and does not scale. Furthermore, a high number of support requests is indicative of problems with the product itself or a lack of accessible and helpful documentation, which must be addressed.
 
 {%

@@ -3,9 +3,6 @@ title: "Hardware"
 slug: "hardware"
 ---
 
-* toc
-{:toc}
-
 
 
 

@@ -3,9 +3,6 @@ title: "Images and Cloud Storage"
 slug: "images-and-cloud-storage"
 ---
 
-* toc
-{:toc}
-
 FarmBot captures images and stores the resulting files in a centralized location.
 
 In July of 2019, we migrated off of our original file storage solution ([Paperclip](https://github.com/thoughtbot/paperclip), now deprecated) and onto the new Rails default, [ActiveStorage](https://github.com/rails/rails/tree/master/activestorage). This page serves as a continuity document for future developers who work on the file storage system.

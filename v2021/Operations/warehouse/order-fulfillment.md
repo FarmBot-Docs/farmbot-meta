@@ -3,9 +3,6 @@ title: "Order Fulfillment"
 slug: "order-fulfillment"
 ---
 
-* toc
-{:toc}
-
 # Full kits
 
 # Other orders

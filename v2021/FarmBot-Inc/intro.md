@@ -5,9 +5,6 @@ description: "Open documentation for the way we do business <span class=\"value-
 redirect_from: /docs/v2021/
 ---
 
-* toc
-{:toc}
-
 **FarmBot Inc** is a California Benefit Corporation founded in San Luis Obispo in July of 2016. Our **mission** is to grow a community that produces free and open­ source hardware plans, software, data, and documentation enabling everyone to build and operate a farming machine. Our **vision** is to create an open and accessible technology aiding everyone to grow food and to grow food for everyone.
 
 Watch founder Rory Aronson share this vision in his 2014 TEDx talk at UCLA:

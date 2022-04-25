@@ -3,9 +3,6 @@ title: "Inventory"
 slug: "inventory"
 ---
 
-* toc
-{:toc}
-
 # Organizational system
 Our organizational system both in the warehouse and within Shopify is based on our various FarmBot kits:
 
