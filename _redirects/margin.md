@@ -1,5 +1,5 @@
 ---
 permalink: /docs/margin
-page_path: /Finances/margin
+page_path: /finances/margin
 layout: redirect
 ---

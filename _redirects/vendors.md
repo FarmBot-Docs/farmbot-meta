@@ -1,5 +1,5 @@
 ---
 permalink: /docs/vendors
-page_path: /Operations/vendors
+page_path: /operations/vendors
 layout: redirect
 ---

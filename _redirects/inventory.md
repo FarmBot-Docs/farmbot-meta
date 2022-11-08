@@ -1,5 +1,5 @@
 ---
 permalink: /docs/inventory
-page_path: /Operations/warehouse/inventory
+page_path: /operations/warehouse/inventory
 layout: redirect
 ---

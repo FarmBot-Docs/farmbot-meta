@@ -1,5 +1,5 @@
 ---
 permalink: /docs/whitepaper
-page_path: /FarmBot-Inc/intro/whitepaper
+page_path: /farmbot/intro/whitepaper
 layout: redirect
 ---

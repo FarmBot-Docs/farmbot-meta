@@ -1,5 +1,5 @@
 ---
 permalink: /docs/sales
-page_path: /Finances/sales
+page_path: /finances/sales
 layout: redirect
 ---

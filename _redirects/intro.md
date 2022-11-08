@@ -1,5 +1,5 @@
 ---
 permalink: /docs/intro
-page_path: /FarmBot-Inc/intro
+page_path: /farmbot/intro
 layout: redirect
 ---

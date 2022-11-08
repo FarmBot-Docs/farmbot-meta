@@ -1,5 +1,5 @@
 ---
 permalink: /docs/corporate-info
-page_path: /FarmBot-Inc/intro/corporate-info
+page_path: /farmbot/intro/corporate-info
 layout: redirect
 ---

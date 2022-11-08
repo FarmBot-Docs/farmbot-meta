@@ -1,5 +1,5 @@
 ---
 permalink: /docs/licensing
-page_path: /FarmBot-Inc/intro/licensing
+page_path: /farmbot/intro/licensing
 layout: redirect
 ---

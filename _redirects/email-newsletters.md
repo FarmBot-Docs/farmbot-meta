@@ -1,5 +1,5 @@
 ---
 permalink: /docs/email-newsletters
-page_path: /Marketing/email-newsletters
+page_path: /marketing/email-newsletters
 layout: redirect
 ---
