@@ -5,7 +5,7 @@ logo: /assets/images/documentation.png
 remote_theme: FarmBot-Docs/farmbot-theme@main
 baseurl: /
 color: '#434343'
-latest_version_number: 2021
+latest_version_number: 2022
 plugins:
   - jemoji
   - jekyll-redirect-from
@@ -28,3 +28,4 @@ algolia:
   files_to_exclude:
     - index.md
     - v2020/**/*
+    - v2021/**/*

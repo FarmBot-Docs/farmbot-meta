@@ -1,5 +1,5 @@
 ---
 permalink: /docs/impact
-page_path: /FarmBot-Inc/intro/impact
+page_path: /farmbot/intro/impact
 layout: redirect
 ---
