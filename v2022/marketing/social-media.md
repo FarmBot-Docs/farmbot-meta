@@ -61,25 +61,21 @@ Most posts should include a **link** to our website to either buy a FarmBot, lea
 
 We have the following **short URLs** which should be used as much as possible. This is especially important for Instagram, where post links are not clickable and so the follower needs to manually type in the URL to their browser if they wish to follow the link.
 
-|URL                           |Points to                     |Use when directing people to...|
-|------------------------------|------------------------------|------------------------------|
-|[farm.bot](http://farm.bot)   |Homepage                      |Our site to learn more (especially about the featured product on the homepage), see more videos, place an order, and/or browse the shop.
-|[buy.farm.bot](http://buy.farm.bot)|Product collection of all FarmBot kits|Purchase one of our full kits.
-|[shop.farm.bot](http://shop.farm.bot)|All product collections (the full shop)|Explore all of our products.
-|[docs.farm.bot](http://docs.farm.bot)|Documentation super hub|Our documentation efforts, in general.
-|[genesis.farm.bot](http://genesis.farm.bot)|Genesis hardware documentation hub    |View the assembly instructions.
-|[express.farm.bot](http://express.farm.bot)|Express hardware documentation hub    |View the assembly instructions.
-|[software.farm.bot](http://software.farm.bot)|Software documentation hub    |Learn how to use the app.
-|[developer.farm.bot](http://developer.farm.bot)|Developer documentation hub   |Learn about our stack, become a software contributor.
-|[oer.farm.bot](http://oer.farm.bot)|Open educational resources documentation hub|See our OER content.
-|[meta.farm.bot](http://meta.farm.bot)|Our corporate documentation hub|Learn more about our open-source business model.
-|[os.farm.bot](http://os.farm.bot)|GitHub, to download the latest OS|Download the latest OS.
-|[cad.farm.bot](http://cad.farm.bot)|Genesis CAD page|View/download/modify the Genesis CAD models.
-|[bom.farm.bot](http://bom.farm.bot)|Genesis BOM page|View Genesis tech specs or part cost/quantity.
-|[my.farm.bot](http://my.farm.bot)|The web app                   |Try out/view the web app.
-|[media.farm.bot](http://media.farm.bot)|Our media kit                 |Promote us (audience is a group of reporters, for example).
-|[newsletter.farm.bot](http://newsletter.farm.bot)|Our newsletter signup page    |Subscribe to the email newsletter.
-
-
-
-
+|URL                                              |Points to                              |Use when directing people to...|
+|-------------------------------------------------|---------------------------------------|------------------------------|
+|[farm.bot](http://farm.bot)                      |Homepage                               |Our site to learn more, place an order, etc.
+|[buy.farm.bot](http://buy.farm.bot)              |Product collection of all FarmBot kits |Purchase one of our full kits.
+|[shop.farm.bot](http://shop.farm.bot)            |All product collections (the full shop)|Explore all of our products.
+|[docs.farm.bot](http://docs.farm.bot)            |Documentation super hub                |Our documentation efforts, in general.
+|[genesis.farm.bot](http://genesis.farm.bot)      |Genesis hardware documentation hub     |View the assembly instructions.
+|[express.farm.bot](http://express.farm.bot)      |Express hardware documentation hub     |View the assembly instructions.
+|[software.farm.bot](http://software.farm.bot)    |Software documentation hub             |Learn how to use the app.
+|[developer.farm.bot](http://developer.farm.bot)  |Developer documentation hub            |Learn about our stack, become a software contributor.
+|[oer.farm.bot](http://oer.farm.bot)              |Open educational resources             |See our OER content.
+|[meta.farm.bot](http://meta.farm.bot)            |Our corporate documentation hub        |Learn more about our open-source business model.
+|[os.farm.bot](http://os.farm.bot)                |FarmBot OS download wizard             |Download the latest OS.
+|[cad.farm.bot](http://cad.farm.bot)              |Genesis CAD page                       |View/download/modify the Genesis CAD models.
+|[bom.farm.bot](http://bom.farm.bot)              |Genesis BOM page                       |View Genesis tech specs or part cost/quantity.
+|[my.farm.bot](http://my.farm.bot)                |The web app                            |Try out/view the web app.
+|[media.farm.bot](http://media.farm.bot)          |Our media kit                          |Promote us (audience is a group of reporters, for example).
+|[newsletter.farm.bot](http://newsletter.farm.bot)|Our newsletter signup page             |Subscribe to the email newsletter.

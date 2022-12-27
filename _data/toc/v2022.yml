@@ -119,6 +119,8 @@ contents:
         url: blogging
       - title: Media Kit
         url: media-kit
+        tags:
+        - Share FarmBot!
   - title: Finances
     url: finances
     top: true
