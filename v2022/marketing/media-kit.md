@@ -135,15 +135,18 @@ content="Please do not manipulate the logos."
 
 - Business Insider – [FarmBot automates tending, weeding, and watering a garden and makes it as easy as playing a video game to feed a family of 4 — here's how it works](https://www.businessinsider.com/farmbot-automated-farm-kits-controlled-through-app-2020-6)
 - Venture Beat – [UC Berkeley robotics lab wants to fully automate a polyculture garden](https://venturebeat.com/ai/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/)
+- Al Jazeera – [QITCOM 2019 Interview](https://www.youtube.com/watch?v=BPuOhfJzEQY)
 
 **2019**
 
+- Freethink – ["Collaborative" Robots Are Taking Our Jobs, But It Might Be a Good Thing](https://www.youtube.com/watch?v=-jeSitHw-lk)
 - The Spoon – [FarmBot Launches Two New Robotics Kits to Give Anyone an (Automated) Green Thumb](https://thespoon.tech/farmbot-launches-two-new-robotics-kits-to-give-anyone-a-automated-green-thumb/)
 - Hackaday – [FarmBot Unveils New CNC Gardening Robot Models](https://hackaday.com/2019/07/01/farmbot-unveils-new-cnc-gardening-robot-models/)
 
 **2017**
 
 - Make: Magazine – [Edible Innovations: FarmBot Helps Automate Small-Scale Food Production](https://makezine.com/article/home/gardening/community-creating-solution-farmbot-technology/)
+- The Henry Ford’s Innovation Nation – [Season 3 Episode 66: FarmBot](https://www.youtube.com/watch?v=1-CpHBEP2Wc)
 - Tharawat Magazine – [Farmbot: A Do-it-yourself Open Source Farming Robot](https://www.tharawat-magazine.com/start/farmbot-open-source-farming-robot/)
 
 **2016**
