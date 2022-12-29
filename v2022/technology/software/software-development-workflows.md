@@ -19,7 +19,7 @@ content="Farmbot uses **Git** for version control. The source code is publicly a
 
 The source code has two main branches:
 
- * The `master` branch is stable and contains the latest public release. It is only updated during public releases and for emergency security updates.
+ * The `main` branch is stable and contains the latest public release. It is only updated during public releases and for emergency security updates.
  * The `staging` branch contains features which the author believes to be stable, but which have not yet received formal QA testing. This branch is stable enough for use by software developers and quality assurance personnel, but is not stable enough for real-world use.
 
 Under certain circumstances (discussed later in this document), a `next` branch will be created, which should only be used under limited circumstances. The `next` branch is less stable than `staging` and is only suitable for internal use.
@@ -181,7 +181,7 @@ If issues are noted during QA testing, the QA tester will move the issue back to
 
 ## Step 5: Public release
 
-When the staging environment is ready for public consumption, a pull request merging `staging` into `master` can be created. Such pull requests require an approval from a second developer, ideally one that is familiar with the package being released.
+When the staging environment is ready for public consumption, a pull request merging `staging` into `main` can be created. Such pull requests require an approval from a second developer, ideally one that is familiar with the package being released.
 
 After a second reviewer approves the changes and all CI checks have passed, the pull request is merged and a GitHub release can be tagged.
 

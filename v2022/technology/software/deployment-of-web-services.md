@@ -17,8 +17,8 @@ slug: "deployment-of-web-services"
 
  * Once a pull request is merged into the `staging` branch, it is automatically deployed to a staging server for manual QA testing.
  * After determining that there are no deficiencies noted in the software, a deploy is scheduled.
- * A pull request from the `staging` branch is proposed to the `master` branch.
- * A team member (not the same person proposing the pull request) must review changes prior to merging into master.
+ * A pull request from the `staging` branch is proposed to the `main` branch.
+ * A team member (not the same person proposing the pull request) must review changes prior to merging into `main`.
  * After merging, a [new release is tagged](https://help.github.com/articles/creating-releases/) (see: [Release Naming Conventions](#release-naming-conventions)).
  * Prior to a production deploy, the developer team must ensure that Heroku has created a recent database backup.
  * The software is deployed to the production server via [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
@@ -53,6 +53,13 @@ Every major version receives a "code name". The code name is collectively determ
 
 ### Past release names
 
+ * v14: Opulent Orchid
+ * v13: Noble Nettle
+ * v12: Majestic Mango
+ * v11: Lucky Lavender
+ * v10: Kind Kale
+ * v9: Jolly Juniper
+ * v8: Iridescent Iris
  * v7: Happy Hibiscus
  * v6: Gracious Guava
  * v5: Fantastic Fern
