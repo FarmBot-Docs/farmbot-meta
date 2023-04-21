@@ -1,5 +1,5 @@
 ---
 permalink: /docs/human-resources
-page_path: /farmbot/human-resources
+page_path: /operations/human-resources
 layout: redirect
 ---

@@ -1,5 +1,5 @@
 ---
 permalink: /docs/media-kit
-page_path: /marketing/media-kit
+page_path: /farmbot/media-kit
 layout: redirect
 ---
