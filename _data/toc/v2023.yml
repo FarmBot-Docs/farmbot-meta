@@ -1,0 +1,140 @@
+version_number: 2023
+status: stable
+home: farmbot/intro
+contents:
+  - title: FarmBot Inc
+    url: farmbot
+    top: true
+    pages:
+      - title: Intro to FarmBot Inc
+        url: intro
+        pages:
+          - title: Respecting Your Freedom
+            url: respecting-your-freedom
+          - title: Ethics and Integrity
+            url: ethics-and-integrity
+          - title: Licensing
+            url: licensing
+          - title: Corporate Info
+            url: corporate-info
+          - title: The FarmBot Whitepaper
+            url: whitepaper
+      - title: Company History
+        url: company-history
+        pages:
+          - title: "2011 - 2015"
+            url: "2011-2015"
+          - title: "2016"
+            url: "2016"
+          - title: "2017"
+            url: "2017"
+          - title: "2018"
+            url: "2018"
+          - title: "2019"
+            url: "2019"
+          - title: "2020"
+            url: "2020"
+          - title: "2021"
+            url: "2021"
+          - title: "2022"
+            url: "2022"
+      - title: Media Kit
+        url: media-kit
+        tags:
+        - Share FarmBot!
+  - title: Operations
+    url: operations
+    top: true
+    pages:
+      - title: Warehouse
+        url: warehouse
+        pages:
+          - title: Inventory
+            url: inventory
+          - title: Shipping
+            url: shipping
+          - title: Warehouse Supplies and Equipment
+            url: warehouse-supplies-and-equipment
+      - title: Customer Support
+        url: customer-support
+        pages:
+          - title: Providing Support
+            url: providing-support
+          - title: Replacement Parts and Returns
+            url: replacement-parts-and-returns
+          - title: Creating Draft Orders
+            url: creating-draft-orders
+      - title: Human Resources
+        url: human-resources
+        pages:
+          - title: Compensation
+            url: compensation
+          - title: Code of Conduct
+            url: code-of-conduct
+          - title: Employee Onboarding
+            url: employee-onboarding
+          - title: Employee Offboarding
+            url: employee-offboarding
+      - title: Vendors
+        url: vendors
+      - title: Online Shop
+        url: online-shop
+  - title: Technology
+    url: technology
+    top: true
+    pages:
+      - title: Hardware
+        url: hardware
+        pages:
+          - title: Part Naming Convention
+            url: part-naming-convention
+          - title: Kit Complexity
+            url: kit-complexity
+          - title: Manufacturing
+            url: manufacturing
+      - title: Software
+        url: software
+        pages:
+          - title: Software Development Workflows
+            url: software-development-workflows
+          - title: Deployment of Web Services
+            url: deployment-of-web-services
+          - title: Data Backup and Recovery
+            url: data-recovery
+          - title: Pushing FarmBot OS Updates
+            url: pushing-farmbot-os-updates
+          - title: Image Storage
+            url: image-storage
+      - title: Documentation Style Guide
+        url: documentation-style-guide
+  - title: Marketing
+    url: marketing
+    top: true
+    pages:
+      - title: Launch Campaigns
+        url: launch-campaigns
+      - title: Social Media
+        url: social-media
+      - title: Email Newsletters
+        url: email-newsletters
+      - title: Blogging
+        url: blogging
+  - title: Finances
+    url: finances
+    top: true
+    pages:
+      - title: Sales
+        url: sales
+      - title: Capitalization
+        url: capitalization
+      - title: Taxes, Fees, and Insurance
+        url: taxes-fees-and-insurance
+        pages:
+          - title: California Sales and Use Tax
+            url: california-sales-and-use-tax
+  - title: Legal
+    url: legal
+    top: true
+    pages:
+      - title: Statement of Information
+        url: statement-of-information
