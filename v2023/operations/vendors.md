@@ -14,8 +14,8 @@ slug: "vendors"
 |Continuous Integration   |CircleCI
 |Customer support         |Intercom
 |Documentation hubs       |GitHub Pages
-|Domain registrations     |Endicia<br>Google Domains<br>iwantmyname
-|DNS                      |Cloudflare<br>DNSimple
+|Domain registrations     |EnCirca<br>Google Domains<br>iwantmyname
+|DNS                      |Cloudflare<br>Google Domains
 |E-commerce shop          |Shopify
 |Email newsletter         |Shopify Email
 |Error monitoring         |Rollbar<br>Datadog
@@ -26,10 +26,10 @@ slug: "vendors"
 |Payroll                  |Gusto
 |Phone service            |Grasshopper
 |Security cameras         |Google Nest
-|Shipping logistics       |Shipstation<br>FedEx<br>UPS
+|Shipping logistics       |Shipstation<br>FedEx<br>UPS<br>USPS
 |Social media management  |Later
 |Software source control  |GitHub
-|SSL certificates         |GlobalSign<br>Let's Encrypt<br>ZeroSSL
+|SSL certificates         |Let's Encrypt<br>ZeroSSL
 |Team collaboration       |G Suite<br>GitHub<br>Slack<br>Trello
 
 # Physical locations

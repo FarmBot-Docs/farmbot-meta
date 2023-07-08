@@ -10,3 +10,4 @@ slug: "software"
  * [Data Backup and Recovery](software/data-recovery.md)
  * [Pushing FarmBot OS Updates](software/pushing-farmbot-os-updates.md)
  * [Image Storage](software/image-storage.md)
+ * [Domains and DNS](software/domains-and-dns.md)
