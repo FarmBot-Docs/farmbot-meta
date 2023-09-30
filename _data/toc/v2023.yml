@@ -107,8 +107,6 @@ contents:
             url: image-storage
           - title: Domains and DNS
             url: domains-and-dns
-      - title: Documentation Style Guide
-        url: documentation-style-guide
   - title: Marketing
     url: marketing
     top: true
