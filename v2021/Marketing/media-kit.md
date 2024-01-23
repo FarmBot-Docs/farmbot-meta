@@ -18,7 +18,7 @@ See our [licensing page](../FarmBot-Inc/intro/licensing.md#non-functional-works)
 [Click here for an album of high quality photos](https://photos.app.goo.gl/fD3Td131P6MYYu4c8).
 
 # Videos
-Please see our [YouTube channel](http://youtube.farm.bot). If you would like raw footage, please email rory@farm.bot with your request.
+Please see our [YouTube channel](http://youtube.farm.bot). If you would like raw footage, please email contact@farm.bot with your request.
 
 # Logos
 Right-click to save to your computer. Please do not manipulate the logos.
