@@ -1,6 +1,7 @@
 ---
 title: "Blogging"
 slug: "blogging"
+description: "Draft a new post at [newblog.farm.bot](https://newblog.farm.bot)"
 ---
 
 The [company blog](http://blog.farm.bot) is used to document major developments across the business including:

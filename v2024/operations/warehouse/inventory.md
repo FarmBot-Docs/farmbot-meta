@@ -7,22 +7,14 @@ slug: "inventory"
 
 Our organizational system both in the warehouse and within Shopify is based on our various FarmBot kits:
 
-|Product Line       |Version |
-|-------------------|--------|
-|FarmBot Genesis    |v1.2
-|                   |v1.3
-|                   |v1.4
-|                   |v1.5
-|                   |v1.6
-|FarmBot Genesis XL |v1.4
-|                   |v1.5
-|                   |v1.6
-|FarmBot Express    |v1.0
-|                   |v1.1
-|FarmBot Express XL |v1.0
-|                   |v1.1
+|FarmBot      |Versions |
+|-------------|---------|
+|Genesis      |`v1.2`, `v1.3`, `v1.4`, `v1.5`, `v1.6`, `v1.7`
+|Genesis (XL) |`v1.4`, `v1.5`, `v1.6`, `v1.7`
+|Express      |`v1.0`, `v1.1`
+|Express (XL) |`v1.0`, `v1.1`
 
-In the warehouse, this organization manifests in the form of storage racks dedicated to each kit's partial kits and individual/replacement parts, as well as areas used for the palletized full kits of the newest version.
+In the warehouse, this organization manifests in the form of storage racks dedicated to each FarmBot version's partial kits and individual/replacement parts, as well as areas used for the palletized full kits of the newest version of a FarmBot.
 
 In Shopify, this organization manifests in the form of product **collections** named after each of the kits, for example: `FarmBot Genesis v1.3`. These collections include the kit itself as well as all individual parts and partial kits that are used in the kit. For a product to appear in a collection, it must be added.
 
@@ -36,9 +28,9 @@ In the warehouse, rather than keeping an overlap part on multiple racks, we only
 
 ## Examples
 
-|Product                                                |Shopify Collections    |Warehouse Rack        |
-|-------------------------------------------------------|-----------------------|----------------------|
-|FarmBot Genesis v1.4<br>(full kit)                     |`FarmBot Genesis v1.4` |FarmBot Genesis v1.4
-|v1.3 Plastic Parts Kit<br>(partial kit)                |`FarmBot Genesis v1.3` |FarmBot Genesis v1.3
-|v1.2 Camera Mounts<br>(individual part)                |`FarmBot Genesis v1.2` |FarmBot Genesis v1.2
-|M5 x 10mm Screws<br>(individual part)                  |`FarmBot Genesis v1.2`<br>`FarmBot Genesis v1.3`<br>`FarmBot Genesis v1.4`<br>`FarmBot Genesis XL v1.4`|FarmBot Genesis v1.4<br>FarmBot Genesis XL v1.4
+|Product                                 |Shopify Collections    |Warehouse Rack        |
+|----------------------------------------|-----------------------|----------------------|
+|FarmBot Genesis v1.4<br>(full kit)      |`FarmBot Genesis v1.4` |FarmBot Genesis v1.4
+|v1.3 Plastic Parts Kit<br>(partial kit) |`FarmBot Genesis v1.3` |FarmBot Genesis v1.3
+|v1.2 Camera Mounts<br>(individual part) |`FarmBot Genesis v1.2` |FarmBot Genesis v1.2
+|M5 x 10mm Screws<br>(individual part)   |`FarmBot Genesis v1.2`<br>`FarmBot Genesis v1.3`<br>`FarmBot Genesis v1.4`<br>`FarmBot Genesis XL v1.4`|FarmBot Genesis v1.4<br>FarmBot Genesis XL v1.4

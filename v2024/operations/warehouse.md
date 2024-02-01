@@ -38,6 +38,8 @@ The current configuration of the warehouse has capacity to store 30 pallets in r
 |July 2021 - May 2022       |$4,850/month |                           |
 |May 2022                   |$1,481       |Maintenance reconciliation |
 |June 2022 - May 2023       |$4,950/month |                           |
+|May 2023                   |$2,576       |Maintenance reconciliation |
+|June 2023 - May 2024       |$5,050/month |                           |
 
 
 # What's next?

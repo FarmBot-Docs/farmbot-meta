@@ -20,7 +20,6 @@ FarmBot Inc will provision the new hire a company email address through the G Su
   * Slack channels
   * Google drive folders
   * Intercom
-  * Trello boards
   * GitHub organization
   * Shopify
   * Shipstation

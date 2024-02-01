@@ -5,20 +5,22 @@ slug: "kit-complexity"
 
 The following table illustrates the complexity of our kits.
 
-|Product Line   |Version  |# Parts |Est. Assembly Hours\* |Pre-asemblies |
-|---------------|---------|--------|----------------------|------------- |
-|**Genesis**    |v1.2     |1,105   |20                    |
-|               |v1.3     |1,281   |20                    |
-|               |v1.4     |1,284   |18                    |Electronics box<br>UTM
-|               |v1.5     |936     |18                    |Electronics box<br>UTM
-|               |v1.6     |1,037   |17                    |Electronics box<br>UTM<br>Tools
-|**Genesis XL** |v1.4     |1,415   |25                    |Electronics box<br>UTM
-|               |v1.5     |1,115   |25                    |Electronics box<br>UTM
-|               |v1.6     |1,171   |24                    |Electronics box<br>UTM<br>Tools
-|**Express**    |v1.0     |391     |9                     |Major subassemblies
-|               |v1.1     |454     |9                     |Major subassemblies
-|**Express XL** |v1.0     |424     |13                    |Major subassemblies
-|               |v1.1     |482     |13                    |Major subassemblies
+|FarmBot          |Version |# Parts |Est. Assembly Hours\* |Pre-asemblies |
+|-----------------|--------|--------|----------------------|------------- |
+|**Genesis**      |v1.2    |1,105   |20                    |
+|                 |v1.3    |1,281   |20                    |
+|                 |v1.4    |1,284   |18                    |Electronics box, UTM
+|                 |v1.5    |936     |18                    |Electronics box, UTM
+|                 |v1.6    |1,037   |17                    |Electronics box, UTM, tools
+|                 |v1.7    |760     |11                    |Major subassemblies
+|**Genesis (XL)** |v1.4    |1,415   |25                    |Electronics box, UTM
+|                 |v1.5    |1,115   |25                    |Electronics box, UTM
+|                 |v1.6    |1,171   |24                    |Electronics box, UTM, tools
+|                 |v1.7    |830     |16                    |Major subassemblies
+|**Express**      |v1.0    |391     |9                     |Major subassemblies
+|                 |v1.1    |454     |9                     |Major subassemblies
+|**Express (XL)** |v1.0    |424     |13                    |Major subassemblies
+|                 |v1.1    |482     |13                    |Major subassemblies
 
 **\*** Includes time to build a raised bed
 

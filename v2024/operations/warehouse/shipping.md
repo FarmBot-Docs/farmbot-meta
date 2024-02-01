@@ -35,7 +35,7 @@ We currently use the following carriers and services based on the shipment type:
 
 # Customs documentation
 
-For all shipments sent via USPS or GlobalPost, customs information is included on the shipping label itself.
+For all shipments sent via USPS or GlobalPost, **customs information** is included on the shipping label itself.
 
 For shipments to _most countries_ via UPS or FedEx, customs information is automatically electronically submitted as denoted on the shipping label by `EDI` (Electronic Data Interchange) for UPS shipments or `ETD` (Electronic Trade Documents) for FedEx shipments.
 

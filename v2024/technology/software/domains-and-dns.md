@@ -135,7 +135,7 @@ content="These subdomains are implemented with Cloudflare's **Bulk Redirect Rule
 # farmbot.org
 
 | **Registrar** | Google Domains |
-| **DNS Provider** | Google Domains |
+| **DNS Provider** | Cloudflare |
 
 |            Domain | Use                   |
 | ----------------: | --------------------- |

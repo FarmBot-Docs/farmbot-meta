@@ -5,7 +5,7 @@ slug: "sales"
 
 # By FarmBot
 
-<iframe style="border: #eee 3px solid; width: 100%; height: 560px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6P01UCtyCjJvQv6dDJMSy1dEeCCiwu7P_6QPKylTWWE9JKIgIkaPR9NodXSIMyRI3tXJV5zi-eVAG/pubhtml?gid=1294713452&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
+<iframe style="border: #eee 3px solid; width: 100%; height: 605px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6P01UCtyCjJvQv6dDJMSy1dEeCCiwu7P_6QPKylTWWE9JKIgIkaPR9NodXSIMyRI3tXJV5zi-eVAG/pubhtml?gid=1294713452&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
 
 {%
 include callout.html
@@ -48,10 +48,20 @@ type="info"
 content="This table includes **all orders** (full kits, replacement parts, individual parts, etc)."
 %}
 
-<iframe style="border: #eee 3px solid; width: 100%; height: 1075px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6P01UCtyCjJvQv6dDJMSy1dEeCCiwu7P_6QPKylTWWE9JKIgIkaPR9NodXSIMyRI3tXJV5zi-eVAG/pubhtml?gid=920703715&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
+<iframe style="border: #eee 3px solid; width: 100%; height: 1270px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6P01UCtyCjJvQv6dDJMSy1dEeCCiwu7P_6QPKylTWWE9JKIgIkaPR9NodXSIMyRI3tXJV5zi-eVAG/pubhtml?gid=920703715&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
 
 {%
 include callout.html
 type="calculator"
 content="[Shopify report](https://farmbot.myshopify.com/admin/reports/2536734818) for this table."
+%}
+
+# YoY by FarmBot
+
+<iframe style="border: #eee 3px solid; width: 100%; height: 660px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6P01UCtyCjJvQv6dDJMSy1dEeCCiwu7P_6QPKylTWWE9JKIgIkaPR9NodXSIMyRI3tXJV5zi-eVAG/pubhtml?gid=2135646991&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
+
+{%
+include callout.html
+type="calculator"
+content="[Shopify report](https://admin.shopify.com/store/farmbot/reports/2536702050?since=-1y&until=-1y) for this table."
 %}

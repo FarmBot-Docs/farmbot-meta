@@ -1,6 +1,7 @@
 ---
 title: "Email Newsletters"
 slug: "email-newsletters"
+description: "Subscribe at [newsletter.farm.bot](https://newsletter.farm.bot)"
 ---
 
 When someone signs up for our email newsletter, we add them to an automated multi-part welcome series of emails using Shopify Flow and Shopify Email. The series includes about 15 emails sent over approximately 6 weeks.

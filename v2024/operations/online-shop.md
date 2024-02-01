@@ -11,24 +11,19 @@ All of our revenue comes from sales of hardware through our online shop, which i
 |[neworder.farm.bot](http://neworder.farm.bot)|Draft order page
 |[newblog.farm.bot](http://newblog.farm.bot)|Draft blog post page
 
-In addition to selling full FarmBot kits, we sell various spare parts that can be used as replacements, extra parts to modify a full kit, or as key components in a DIY build.
+In addition to selling full FarmBot kits, we sell various **individual parts** that can be used as replacements, extra parts to modify a full kit, or as key components in a DIY build.
 
-You might be thinking: why put in so much effort to maintain a full online shop of individual parts, track inventory, and bother fulfilling orders without full kits when these orders only contribute to about 1% of total sales? The answer is a two-parter:
+{%
+include callout.html
+type="info"
+content="Maintaining an inventory of essential replacement parts is necessary to support our customers and ensure that they can keep their FarmBots running for years to come.
 
-1. $240 average order value (AOV) is still high enough to warrant the effort and cost required to employ a team member with a living wage to maintain the full online shop and handle order fulfillment. If AOV dropped below $40, the economics alone for these types of orders would possibly not work out.
-
-2. Many customers who place orders without a full kit have actually already purchased a full kit in a previous order (they are upgrading or repairing their bot). While we don't have data as to what our customer's purchase factors are, it is probably safe to assume that knowing upgrade, expansion, and replacement parts are available is a contributing purchase factor for at least some full kit customers. After all, would you buy a $3,000 machine if you didn't know whether or not replacement parts would be available? Thus, even if AOV dropped below $40, it would still be worthwhile to maintain the full shop simply as a marketing and support tool to sell full kits.
+However, starting in 2024 with the debut of the mostly pre-assembled and simplified FarmBot Genesis v1.7 kits as well as the cancelling of the FarmBot Express product line, we will be paring down much of our non-essential spare part inventory to reduce costs and complexity. Commodity items such as screws, which are readily available from many suppliers, will not be restocked once our current inventory is depleted."
+%}
 
 # Domestic vs international orders
 
-|Destination   |Orders|Revenue    |% of Total |
-|--------------|-----:|----------:|----------:|
-|Domestic      |2,343 |$4,388,257 |52.6%
-|International |1,874 |$3,958,565 |47.4%
-|==============|======|===========|===========|
-|All           |4,217 |$8,346,822 |100.0%
-
-_Last updated April 14, 2023_
+<iframe style="border: #eee 3px solid; width: 100%; height: 150px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6P01UCtyCjJvQv6dDJMSy1dEeCCiwu7P_6QPKylTWWE9JKIgIkaPR9NodXSIMyRI3tXJV5zi-eVAG/pubhtml?gid=284580565&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"></iframe>
 
 {%
 include callout.html

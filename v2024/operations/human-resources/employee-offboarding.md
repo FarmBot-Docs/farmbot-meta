@@ -4,7 +4,7 @@ slug: "employee-offboarding"
 description: "Required processes for offboarding team members"
 ---
 
-The following processes are required when offboarding a team member.
+The following processes are required when **offboarding** a team member.
 
 # Payroll
 
