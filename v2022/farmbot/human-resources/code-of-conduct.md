@@ -1,7 +1,7 @@
 ---
 title: "Code of Conduct"
 slug: "code-of-conduct"
-description: "Send reports to safety@farm.bot"
+description: "Send reports to contact@farm.bot"
 ---
 
 A primary goal of our community is to be inclusive to the largest number of participants with the most varied and diverse backgrounds possible <span class="value-icon good-people"></span>. As such, we are committed to providing a safe and welcoming environment for all, regardless of race, gender, sexual orientation, functional diversity, physical appearance, ethnicity, nationality, or religion (or lack thereof); and lifestyle choices and practices including those related to food, health, parenting, drugs, farming and gardening, and employment.
@@ -25,7 +25,7 @@ content="This Code of Conduct is a living document that may be amended in the fu
 %}
 
 # Contact info
-If you are subject to or witness violations of this Code of Conduct, or have any other concerns, please notify our Safety Team immediately at safety@farm.bot.
+If you are subject to or witness violations of this Code of Conduct, or have any other concerns, please notify our Safety Team immediately at contact@farm.bot.
 
 # Scope
 This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.

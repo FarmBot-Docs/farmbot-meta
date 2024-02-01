@@ -21,7 +21,7 @@ Depending on your audience, you may wish to focus on one of the myriad ways Farm
 include callout.html
 type="success"
 title="Arrange an exclusive interview"
-content="Please email [media@farm.bot](mailto:media@farm.bot) with details of your publication, reach, etc to arrange an **exclusive interview**. We can answer questions over email or do live/recorded audio/video."
+content="Please email [contact@farm.bot](mailto:contact@farm.bot) with details of your publication, reach, etc to arrange an **exclusive interview**. We can answer questions over email or do live/recorded audio/video."
 %}
 
 # Using our media kit
@@ -58,7 +58,7 @@ Please see our [YouTube channel](https://www.youtube.com/@farmbot/videos) for ou
 {%
 include callout.html
 type="file-video-o"
-content="If you would like access to **raw unedited footage**, please email [media@farm.bot](mailto:media@farm.bot) with details of your media project."
+content="If you would like access to **raw unedited footage**, please email [contact@farm.bot](mailto:contact@farm.bot) with details of your media project."
 %}
 
 ![FarmBot YouTube](_images/farmbot_youtube.jpg)
