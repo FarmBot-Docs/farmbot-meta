@@ -1,0 +1,28 @@
+account,file
+Cash,/assets/data/timeline/accounts/cash.csv
+Credit Cards,/assets/data/timeline/accounts/credit_cards/amex_credit_card_2001.csv
+Credit Cards,/assets/data/timeline/accounts/credit_cards/amex_credit_card_2006.csv
+Credit Cards,/assets/data/timeline/accounts/credit_cards/wells_fargo_credit_card.csv
+Line of Credit,/assets/data/timeline/accounts/line_of_credit.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2018-11-21.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2020-01-03.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2020-07-30.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2022-08-26.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2023-03-15.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2023-06-08.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2023-12-20.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2024-06-03.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2025-02-20.csv
+Shopify Loan,/assets/data/timeline/accounts/shopify_capital_loans/shopify_capital_loan_2025-06-20.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2019-02-22.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2019-06-26.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2019-10-28.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2022-10-21.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2023-02-16.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2023-08-11.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2024-01-08.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2024-10-11.csv
+PayPal Loan,/assets/data/timeline/accounts/paypal_loans/paypal_loan_2025-01-10.csv
+AMEX Loan,/assets/data/timeline/accounts/amex_loan.csv
+Family Loan,/assets/data/timeline/accounts/family_loan.csv
+LDO Payments,/assets/data/timeline/accounts/ldo_payments.csv
